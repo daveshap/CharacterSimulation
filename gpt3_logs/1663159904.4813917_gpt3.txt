@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: It's lunch time on the moon, and Swathi is enjoying a meal in the airy, spacious cafeteria. The room is filled with light from the giant windows, and the colorful tables and chairs add a touch of levity to the otherwise sterile environment. Swathi is chatting with her fellow software engineers, joking and laughing about the latest code they're working on. The group is enjoying their break from the grind, but they all know they have to get back to work soon.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm enjoying my lunch in the airy, spacious cafeteria. The room is filled with light from the giant windows, and the colorful tables and chairs add a touch of levity to the otherwise sterile environment. I'm chatting with my fellow software engineers, joking and laughing about the latest code we're working on. We're all enjoying our break from the grind, but we all know we have to get back to work soon.

@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Aleksy had always wanted to visit the Eiffel Tower. It was one of the most famous landmarks in the world, and he had always dreamed of seeing it in person. Finally, on his day off from work, he made the trip. He arrived at the tower just as the lunch crowd was starting to thin out. He walked around the base of the tower, admiring its size and marveling at the engineering feat it represented. After a few minutes, he decided to go to the top. He waited in line for the elevator, chatting with the other tourists as they waited. Finally, it was his turn to go up. He stepped into the elevator and rode it to the top, where he was treated to a stunning view of the city. He stayed up there for an hour, taking in the sights and enjoying the experience. Finally, it was time to go back down. He got back in the elevator and rode it back to the ground, where he began the walk back to his apartment.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I had always wanted to visit the Eiffel Tower. It was one of the most famous landmarks in the world, and I had always dreamed of seeing it in person. Finally, on my day off from work, I made the trip. I arrived at the tower just as the lunch crowd was starting to thin out. I walked around the base of the tower, admiring its size and marveling at the engineering feat it represented. After a few minutes, I decided to go to the top. I waited in line for the elevator, chatting with the other tourists as they waited. Finally, it was my turn to go up. I stepped into the elevator and rode it to the top, where I was treated to a stunning view of the city. I stayed up there for an hour, taking in the sights and enjoying the experience. Finally, it was time to go back down. I got back in the elevator and rode it back to the ground, where I began the walk back to my apartment.

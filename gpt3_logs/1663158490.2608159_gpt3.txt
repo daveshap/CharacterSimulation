@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Mashawn is finishing up his shift for the day, working on a construction site in the city. He's been working hard all day in the hot sun, and he's ready to head home. He cleans up his tools and equipment, and then heads to the subway station. The city is alive with energy at night. The streets are bustling with people, and the lights are bright. Mashawn feels a sense of excitement as he walks through the city. He takes the subway home, and when he gets off at his stop, he's ready to relax and enjoy the rest of his evening.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm finishing up my shift for the day, working on a construction site in the city. I've been working hard all day in the hot sun, and I'm ready to head home. I clean up my tools and equipment, and then head to the subway station. The city is alive with energy at night. The streets are bustling with people, and the lights are bright. I feel a sense of excitement as I walk through the city. I take the subway home, and when I get off at my stop, I'm ready to relax and enjoy the rest of my evening.

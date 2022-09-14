@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The night is pitch black, except for the soft glow of the moonlight reflecting off the ocean. Swathi is walking along the beach, her feet sinking into the sand with each step. She's wearing a light summer dress and carrying a small bag. She looks around, taking in the peacefulness of the scene. Suddenly, she hears a noise behind her. She turns around and sees a large dark shape coming towards her. She starts to run, but the thing is faster. It catches up to her and knocks her to the ground. She feels something sharp piercing her skin and cries out in pain. The last thing she sees before she blacks out is the creatures face, with its large teeth and red eyes.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm walking along the beach, enjoying the peacefulness of the scene. My feet sink into the sand with each step. Suddenly, I hear a noise behind me. I turn around and see a large dark shape coming towards me. I start to run, but the thing is faster. It catches up to me and knocks me to the ground. I feel something sharp piercing my skin and cry out in pain. The last thing I see before I black out is the creature's face, with its large teeth and red eyes.

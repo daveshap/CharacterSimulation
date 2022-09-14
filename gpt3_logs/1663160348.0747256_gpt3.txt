@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun rises over the horizon, casting a pink and orange glow over the Paris skyline. Jenna stands under the Eiffel Tower, looking up at the majestic structure. She's been dreaming of visiting this city for years, and now she's finally here. She takes a deep breath and savors the moment. Jenna's parents had planned to take her on a European tour after she graduated high school, but sadly, they passed away before they could make the trip. Jenna was determined to see the places her parents had always wanted to take her, and so she saved up her own money and took the trip herself. Standing under the Eifel Tower, Jenna feels like anything is possible. She can't wait to explore the rest of the city and see all the sights. She knows her parents would be proud of her for making this trip.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+The sun rises over the horizon, casting a pink and orange glow over the Paris skyline. I stand under the Eiffel Tower, looking up at the majestic structure. I've been dreaming of visiting this city for years, and now I'm finally here. I take a deep breath and savor the moment. My parents had planned to take me on a European tour after I graduated high school, but sadly, they passed away before they could make the trip. I was determined to see the places my parents had always wanted to take me, and so I saved up my own money and took the trip myself. Standing under the Eiffel Tower, I feel like anything is possible. I can't wait to explore the rest of the city and see all the sights. I know my parents would be proud of me for making this trip.

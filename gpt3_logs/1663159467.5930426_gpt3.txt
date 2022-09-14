@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun beats down mercilessly on the parched landscape. Swathi, a software engineer, is on a research trip in Africa. She is sweating profusely, and her clothing is sticking to her skin. She is surrounded by dense jungle, and the only sound is the cicadas chirping in the trees. Suddenly, she hears a loud rustling in the bushes. She freezes, unsure of what to do. A large snake slithers out from the undergrowth and begins to coil itself around her. She is paralyzed with fear. The snake hisses menacingly and strikes at her with its fangs. She feels a sharp pain in her leg as the venom seeps into her bloodstream. She knows she is in trouble. She tries to scream for help, but the venom is already starting to affect her vocal cords. She feels lightheaded and dizzy. She knows she needs to get help fast, but she doesn't know where to turn.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm on a research trip in Africa, and the sun is beating down mercilessly on the parched landscape. I'm sweating profusely, and my clothing is sticking to my skin. I'm surrounded by dense jungle, and the only sound is the cicadas chirping in the trees. Suddenly, I hear a loud rustling in the bushes. I freeze, unsure of what to do. A large snake slithers out from the undergrowth and begins to coil itself around me. I'm paralyzed with fear. The snake hisses menacingly and strikes at me with its fangs. I feel a sharp pain in my leg as the venom seeps into my bloodstream. I know I'm in trouble. I try to scream for help, but the venom is already starting to affect my vocal cords. I feel lightheaded and dizzy. I know I need to get help fast, but I don't know where to turn.

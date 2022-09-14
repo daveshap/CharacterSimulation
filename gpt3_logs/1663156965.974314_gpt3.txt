@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Aleksy is in the middle of a concert, enjoying the lunchtime performance. He's tapping his foot along to the music and swaying slightly in his seat, enjoying the show. Around him, other concertgoers are doing the same, some clapping along with the music. The atmosphere is festive and celebratory.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm in the middle of a concert, enjoying the lunchtime performance. I'm tapping my foot along to the music and swaying slightly in my seat, enjoying the show. Around me, other concertgoers are doing the same, some clapping along with the music. The atmosphere is festive and celebratory.

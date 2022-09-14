@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: It's a quiet night at the cottage. Aleksy is in bed, just about to drift off to sleep when he hears a noise outside. He gets up to investigate and sees a figure moving around in the shadows near the bushes. He watches as the figure comes closer to the house and then suddenly disappearing around the side. Aleksy is about to go back to bed when he hears the sound of glass breaking. He knows someone is trying to break into the house! He grabs a flashlight and heads outside to confront the intruder.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was just about to drift off to sleep when I heard a noise outside. I got up to investigate and saw a figure moving around in the shadows near the bushes. I watched as the figure came closer to the house and then suddenly disappeared around the side. I was about to go back to bed when I heard the sound of glass breaking. I knew someone was trying to break into the house! I grabbed a flashlight and headed outside to confront the intruder.

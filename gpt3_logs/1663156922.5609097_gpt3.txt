@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun beats down on the savannah, August heat bearing down on the land. The only respite from the heat is the shade of the acacia tree, where Bob sits with his friends, eating their midday meal. The beans and rice are a welcome relief from the heat, and the group chat and laugh as they eat. Bob is the owner of the local coffee shop, and he takes a moment to enjoy the company of his friends before getting back to work.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+The sun beats down on me, the August heat bearing down on the land. The only respite from the heat is the shade of the acacia tree, where I sit with my friends, eating our midday meal. The beans and rice are a welcome relief from the heat, and we chat and laugh as we eat. I am the owner of the local coffee shop, and I take a moment to enjoy the company of my friends before getting back to work.

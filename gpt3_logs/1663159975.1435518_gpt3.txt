@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Bob is sitting in the middle of a crowded concert hall, surrounded by people chatting and laughing. He looks a little out of place, like he's not quite sure why he's there. He's holding a cup of coffee and looking around nervously. Suddenly, the lights dim and the concert begins. Bob is startled by the sudden change in atmosphere and looks around, wide-eyed. He watches the performers on stage for a moment, before starting to feel restless. He takes a sip of his coffee and looks around again, before getting up and leaving the concert hall.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was sitting in the middle of the concert hall, surrounded by people chatting and laughing. I looked a little out of place, like I wasn't quite sure why I was there. I was holding a cup of coffee and looking around nervously. Suddenly, the lights dimmed and the concert began. I was startled by the sudden change in atmosphere and looked around, wide-eyed. I watched the performers on stage for a moment, before starting to feel restless. I took a sip of my coffee and looked around again, before getting up and leaving the concert hall.

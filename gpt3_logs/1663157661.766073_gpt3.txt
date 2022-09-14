@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The forest is drenched in darkness, with only a sliver of light filtering through the trees. Swathi is carefully picking her way through the undergrowth, her heart pounding in her chest. She knows she's being followed, and she's terrified of what might happen if she's caught. She can hear the leaves rustling behind her as her pursuer gets closer and closer. She's desperate to find a way out of the forest, but she can't see more than a few feet in front of her. She's running now, blind panic driving her forward. Suddenly, she stumbles and falls, landing hard on the ground. She feels a sharp pain in her leg and knows she can't go any further. She tries to crawl away, but her pursuer is upon her. She feels a cold hand grip her shoulder, and she knows she's going to die.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+The forest is drenched in darkness, and I'm picking my way through the undergrowth carefully. My heart is pounding in my chest because I know I'm being followed, and I'm terrified of what might happen if I'm caught. I can hear the leaves rustling behind me as my pursuer gets closer and closer. I'm desperate to find a way out of the forest, but I can't see more than a few feet in front of me. I start running, blind panic driving me forward. Suddenly, I stumble and fall, landing hard on the ground. I feel a sharp pain in my leg, and I know I can't go any further. I try to crawl away, but my pursuer is upon me. I feel a cold hand grip my shoulder, and I know I'm going to die.

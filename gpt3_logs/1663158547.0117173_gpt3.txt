@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Jenna is walking on the moon, early in the morning. She's wearing a spacesuit and carrying a backpack full of supplies. She's been exploring the moon for hours, and she's getting tired. Suddenly, she sees something in the distance. It looks like a structure of some kind. She walks towards it, and as she gets closer, she realizes that it's a spaceship. She's never seen anything like it before. She walks up to the ship and looks at it. It's huge, and it looks very advanced. She can't believe that she's found something like this on the moon. She spends a few minutes exploring the ship, and then she heads back to her base camp.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was walking on the moon, early in the morning. I was wearing a spacesuit and carrying a backpack full of supplies. I'd been exploring the moon for hours, and I was getting tired. Suddenly, I saw something in the distance. It looked like a structure of some kind. I walked towards it, and as I got closer, I realized that it was a spaceship. I'd never seen anything like it before. I walked up to the ship and looked at it. It was huge, and it looked very advanced. I couldn't believe that I'd found something like this on the moon. I spent a few minutes exploring the ship, and then I headed back to my base camp.

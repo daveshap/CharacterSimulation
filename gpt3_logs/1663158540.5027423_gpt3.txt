@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The concert is in full swing, the music is blasting and the crowd is going wild. Aleksy is in the middle of the mosh pit, surrounded by sweaty, lively people. He's throwing his hands in the air and singing along to the music, letting himself get lost in the moment. He's bumping into other people and doesn't care, he's just enjoying the music and the feeling of being surrounded by like-minded people.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm in the middle of the mosh pit, surrounded by sweaty, lively people. I'm throwing my hands in the air and singing along to the music, letting myself get lost in the moment. I'm bumping into other people and don't care, I'm just enjoying the music and the feeling of being surrounded by like-minded people.

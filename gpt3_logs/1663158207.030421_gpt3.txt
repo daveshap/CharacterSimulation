@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun is setting behind the trees, casting a warm glow over the cottage. Gabbi is sitting on the porch, watching the children play in the yard. They are laughing and chasing each other around, and she can't help but smile. It's been a long day, but Gabbi doesn't mind. She loves spending time with the kids. They always make her laugh and she enjoys seeing them happy. Eventually, the children start to get tired and they come to sit with Gabbi on the porch. They chat for a while about their day, and then it's time for bed. Gabbi tucks them in and gives them each a goodnight kiss. She lingers in the hallway for a moment, listening to their soft breathing as they drift off to sleep. Then she quietly closes the door and heads back to the porch. She sits down and looks up at the stars, taking a moment to relax before heading home.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I sit on the porch and watch the children play in the yard as the sun sets behind the trees. They're laughing and chasing each other around and I can't help but smile. It's been a long day, but I don't mind. I love spending time with the kids. They always make me laugh and I enjoy seeing them happy. Eventually, the children start to get tired and they come to sit with me on the porch. We chat for a while about their day, and then it's time for bed. I tuck them in and give them each a goodnight kiss. I linger in the hallway for a moment, listening to their soft breathing as they drift off to sleep. Then I quietly close the door and head back to the porch. I sit down and look up at the stars, taking a moment to relax before heading home.

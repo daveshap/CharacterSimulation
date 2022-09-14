@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Aleksy is sitting at his desk, tapping his fingers against the surface as he looks around the office. It's a typical day at work, and he's getting a little bit bored. He's been working as a grocery store clerk for the past year, and he's starting to feel like he's in a rut. Suddenly, the door to his office opens and his boss walks in. Aleksy sits up straighter in his chair, trying to look attentive. His boss begins to speak, and Aleksy's mind starts to wander. He doesn't really care what his boss is saying, and he tune out the words. Suddenly, he hears his name. His boss is asking him a question, and Aleksy has no idea what the answer is. He stutters for a moment, trying to come up with something, but his mind is blank. His boss looks annoyed, and Aleksy knows he's in for a scolding.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm sitting at my desk, tapping my fingers against the surface as I look around the office. It's a typical day at work, and I'm getting a little bit bored. I've been working as a grocery store clerk for the past year, and I'm starting to feel like I'm in a rut. Suddenly, the door to my office opens and my boss walks in. I sit up straighter in my chair, trying to look attentive. My boss begins to speak, and my mind starts to wander. I don't really care what my boss is saying, and I tune out the words. Suddenly, I hear my name. My boss is asking me a question, and I have no idea what the answer is. I stutter for a moment, trying to come up with something, but my mind is blank. My boss looks annoyed, and I know I'm in for a scolding.

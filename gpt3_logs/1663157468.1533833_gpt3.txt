@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun was high in the sky and the waves were crashing against the shore as Swathi sat on the beach, enjoying her lunch. She had been working hard on her latest project and wanted to take a break to clear her head. The sound of the waves and the feel of the sand between her toes was just what she needed. As she sat there, she watched as a group of children played in the water, laughing and splashing around. It was a beautiful day and she was happy to be able to enjoy it.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+The sun was high in the sky and the waves were crashing against the shore as I sat on the beach, enjoying my lunch. I had been working hard on my latest project and wanted to take a break to clear my head. The sound of the waves and the feel of the sand between my toes was just what I needed. As I sat there, I watched as a group of children played in the water, laughing and splashing around. It was a beautiful day and I was happy to be able to enjoy it.

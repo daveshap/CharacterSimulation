@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun is setting on the moon, and Swathi is watching from her perch atop a lunar mountain. She's been working on her latest software project for weeks, and she's finally ready to take a break. As the sun dips below the horizon, Swathi looks out at the Earth, hanging like a blue-green jewel in the black sky. She feels a sense of peace and accomplishment, knowing that her work is helping to make life better for people back home. Suddenly, Swathi's peace is shattered by a loud beeping sound. Her computer is telling her that there's an incoming transmission from Earth. Swathi hurriedly opens the connection, and her boss's face appears on the screen. He tells her that there's been a major problem with the software she's been working on, and that she needs to fix it immediately. Swathi's heart sinks as she realizes she'll have to put her rest and relaxation on hold for a little while longer.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was watching the sun set on the moon, and I felt a sense of peace and accomplishment. I knew that my work was helping to make life better for people back home. Suddenly, my peace was shattered by a loud beeping sound. My computer was telling me that there was an incoming transmission from Earth. I hurriedly opened the connection, and my boss's face appeared on the screen. He told me that there had been a major problem with the software I'd been working on, and that I needed to fix it immediately. I felt my heart sink as I realized I'd have to put my rest and relaxation on hold for a little while longer.

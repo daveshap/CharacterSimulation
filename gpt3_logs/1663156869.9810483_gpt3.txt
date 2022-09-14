@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun is just starting to set as Sandy approaches her cozy country cottage. She can see the warm glow of the lights inside, and she can't wait to relax after a long day. As she enters, she is enveloped in the comforting smells of home cooking. Her husband and children are gathered around the table, and they all smile when they see her. After a delicious meal and some quality family time, Sandy retires to her bedroom for a well-deserved rest. She slips into her PJs and climbs into bed, feeling thankful for her happy life.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+As I approach my cottage, I can see the warm glow of the lights inside. I can't wait to relax after a long day. As I enter, I am enveloped in the comforting smells of home cooking. My husband and children are gathered around the table, and they all smile when they see me. After a delicious meal and some quality family time, I retire to my bedroom for a well-deserved rest. I slip into my PJs and climb into bed, feeling thankful for my happy life.

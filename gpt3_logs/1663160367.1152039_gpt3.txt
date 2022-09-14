@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Sandy enters her bedroom and looks around. The room is tidy, but there are toys scattered on the floor and clothes thrown over a chair. She sighs and begins to pick up the toys. As she bends down to pick up a doll, she notices a book wedged under the bed. She crawls under the bed to retrieve it and dusts it off. The book is old and worn, but the title is still legible: "The Adventures of Tom Sawyer." She smiles and opens the book. Sandy begins to read the book, but she is soon interrupted by the sound of her young son crying. She puts the book down and goes to comfort him.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I enter my bedroom and look around. The room is tidy, but there are toys scattered on the floor and clothes thrown over a chair. I sigh and begin to pick up the toys. As I bend down to pick up a doll, I notice a book wedged under the bed. I crawl under the bed to retrieve it and dust it off. The book is old and worn, but the title is still legible: "The Adventures of Tom Sawyer." I smile and open the book. I begin to read the book, but I am soon interrupted by the sound of my young son crying. I put the book down and go to comfort him.

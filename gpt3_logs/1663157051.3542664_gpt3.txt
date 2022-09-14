@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The bedroom is a mess, with clothes strewn everywhere and Swathi's laptop on the bed. It's lunch time, and Swathi is using her break to try and finish up some work. She's been stuck on this project for days, and is starting to get frustrated. The phone rings and she debates whether to answer it or not.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+My bedroom is a mess, with clothes strewn everywhere and my laptop on the bed. It's lunch time, and I'm using my break to try and finish up some work. I've been stuck on this project for days, and I'm starting to get frustrated. The phone rings and I debate whether to answer it or not.

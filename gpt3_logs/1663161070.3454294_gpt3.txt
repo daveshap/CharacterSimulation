@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun is setting over the quiet beach, and the sky is a beautiful orange. Bob is sitting on the sand, sipping a cup of coffee and watching the waves. He looks peaceful and content.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+The sun is setting over the quiet beach, and the sky is a beautiful orange. I'm sitting on the sand, sipping a cup of coffee and watching the waves. I look peaceful and content.

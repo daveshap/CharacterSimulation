@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: It's a quiet night at the cottage. Tom is sitting in front of the fireplace, relaxing in the peace and quiet. Suddenly, he hears a noise outside. He gets up to investigate, but doesn't see anything. He's about to go back inside when he sees a figure in the distance. The figure is coming closer, and Tom can see that it's a woman. She's walking quickly, and it looks like she's in a hurry. As she gets closer, Tom can see that she's carrying a bundle in her arms. The woman sees Tom and comes to a stop. She looks relieved and happy to see him. She asks Tom if he can help her. She explains that she's been walking for hours, and she's exhausted. She asks Tom if he can take her in and give her a place to stay for the night. Tom agrees and invites the woman inside. He leads her to the guest room and puts her to bed. The woman thanks Tom and tells him that he's a good man. Tom says goodnight and goes back to his own room.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was sitting in front of the fireplace, enjoying the peace and quiet, when I suddenly heard a noise outside. I got up to investigate, but didn't see anything. I was just about to go back inside when I saw a figure in the distance. The figure was coming closer, and I could see that it was a woman. She was walking quickly, and it looked like she was in a hurry. As she got closer, I could see that she was carrying a bundle in her arms. The woman saw me and came to a stop. She looked relieved and happy to see me. She asked me if I could help her. She explained that she'd been walking for hours, and she was exhausted. She asked me if I could take her in and give her a place to stay for the night. I agreed and invited the woman inside. I led her to the guest room and put her to bed. The woman thanked me and told me that I was a good man. I said goodnight and went back to my own room.

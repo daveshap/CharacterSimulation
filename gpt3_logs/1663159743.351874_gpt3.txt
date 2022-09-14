@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: It is mid-afternoon and the sun is beating down mercilessly on the African plains. Aleksy, a grocery store clerk, is standing in the middle of a dusty road, looking around him in confusion. He is lost and has no idea where he is or how he got here. He is sweating profusely and his heart is pounding in his chest. He looks around him again, desperately trying to orient himself, but there is nothing to see except for flat, featureless land in every direction. He takes a few stumbling steps forward, then collapses to his knees, overcome with exhaustion and fear.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+The sun is beating down on me mercilessly. I'm standing in the middle of a dusty road, looking around me in confusion. I have no idea where I am or how I got here. I'm sweating profusely and my heart is pounding in my chest. I look around me again, desperately trying to orient myself, but there is nothing to see except for flat, featureless land in every direction. I take a few stumbling steps forward, then collapse to my knees, overcome with exhaustion and fear.

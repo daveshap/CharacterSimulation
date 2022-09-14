@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun is setting, and the last of its rays are streaming through the window. The room is cast in a warm, orange glow. Mashawn is in the process of getting ready for bed. He's changed into his pajamas and is now brushing his teeth at the sink. He spits into the sink and rinses his mouth out with water. He then takes a few swigs from a bottle of water before setting it back down on the counter. He walks over to the bed and climbs in. He reaches over to the bedside table and turns off the lamp. The room is now plunged into darkness. He settle down into the bed and close his eyes, ready to drift off to sleep.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+The sun is setting and the last of its rays are streaming in through the window, casting the room in a warm, orange glow. I'm in the process of getting ready for bed. I've changed into my pajamas and I'm now brushing my teeth at the sink. I spit into the sink and rinse my mouth out with water. I take a few swigs from a bottle of water before setting it back down on the counter. I walk over to the bed and climb in. I reach over to the bedside table and turn off the lamp, plunging the room into darkness. I settle down into the bed and close my eyes, ready to drift off to sleep.

@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: It's a dark, gloomy day in the forest, and Swathi is taking her lunch break. She's sitting on a log, eating her sandwich and looking around at the dark trees. There's a feeling of malice in the air, and Swathi can't shake the feeling that something is watching her. Suddenly, she hears a branch snap. She turns around, but there's nothing there. She tells herself it's just her imagination, but she can't help but feel uneasy.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+It's a dark, gloomy day in the forest, and I'm taking my lunch break. I'm sitting on a log, eating my sandwich and looking around at the dark trees. There's a feeling of malice in the air, and I can't shake the feeling that something is watching me. Suddenly, I hear a branch snap. I turn around, but there's nothing there. I tell myself it's just my imagination, but I can't help but feel uneasy.

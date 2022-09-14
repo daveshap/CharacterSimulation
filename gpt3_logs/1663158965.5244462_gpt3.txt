@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Wang is driving his delivery truck through the city streets. He makes a few turns and then stops at a red light. He looks around and sees the bright lights of the city all around him. He hears the sound of cars honking and people talking. The light turns green and he starts to drive again. He makes a few more turns and then arrives at his destination, a large delivery warehouse. He parks the truck and gets out. He goes to the back of the truck and opens the door. He starts to unload the boxes of food that he has delivered.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm driving my delivery truck through the city streets. I make a few turns and then stop at a red light. I look around and see the bright lights of the city all around me. I hear the sound of cars honking and people talking. The light turns green and I start to drive again. I make a few more turns and then arrive at my destination, a large delivery warehouse. I park the truck and get out. I go to the back of the truck and open the door. I start to unload the boxes of food that I have delivered.

@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The city is alive with energy even at night. The streets are lined with bright lights and there is a bustle of people everywhere. Swathi is a software engineer who is out for a walk in the city. She enjoys the sights and sounds of the city and feels alive in the midst of all the activity.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I love walking around the city at night. There's something about all the bright lights and people busting around that just makes me feel alive. I'm a software engineer, so I'm used to being in front of a computer all day. It's nice to get out and enjoy the sights and sounds of the city.

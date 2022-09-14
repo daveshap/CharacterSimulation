@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Mashawn is a construction worker who is working on a mountaintop in Europe. It is the middle of the night, and he is using a large machine to excavate the mountain. He is wearing a hard hat and has a large tool belt around his waist. He is sweating profusely, and the noise from the machine is deafening. He is surrounded by a small team of workers who are helping him operate the machine.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm Mashawn, a construction worker, and I'm working on a mountaintop in Europe. It's the middle of the night, and I'm using a large machine to excavate the mountain. I'm wearing a hard hat and have a large tool belt around my waist. I'm sweating profusely, and the noise from the machine is deafening. I'm surrounded by a small team of workers who are helping me operate the machine.

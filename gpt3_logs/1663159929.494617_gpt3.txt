@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Mashawn is busy at work, hammering away at some bolts on the underside of the Eiffel Tower. He's been working on this section for a few hours now, and he's starting to get hungry. He takes a quick break to eat his lunch, sitting on a girder with his feet dangling over the edge. He looks out at the view of Paris spread out below him and takes a deep breath of the fresh air. What a day to be working on the Eiffel Tower!
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm busy at work, hammering away at some bolts on the underside of the Eiffel Tower. I've been working on this section for a few hours now, and I'm starting to get hungry. I take a quick break to eat my lunch, sitting on a girder with my feet dangling over the edge. I look out at the view of Paris spread out below me and take a deep breath of the fresh air. What a day to be working on the Eiffel Tower!

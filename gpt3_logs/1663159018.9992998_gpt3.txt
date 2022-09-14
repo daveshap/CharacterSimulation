@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: It's the middle of the night, and Aleksy is working the graveyard shift at the local grocery store. The store is brightly lit, and Aleksy is stocking shelves and cleaning up. He's been working for a few hours, and he's starting to feel pretty tired. Suddenly, the store's alarm system goes off. Aleksy knows that this means that someone has broken into the store. He quickly grabs a broom and starts trying to defend himself. The intruder is a big, burly man, and he quickly overpowers Aleksy. He ties him up and starts ransacking the store. Aleksy is terrified, and he thinks that the man is going to kill him. The man doesn't kill Aleksy, but he does rough him up pretty badly. He leaves him tied up in a corner of the store and makes off with a bunch of merchandise. Aleksy is relieved to be alive but traumatized by the experience.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was working the graveyard shift at the local grocery store when the alarm system went off. I knew that this meant that someone had broken into the store, so I quickly grabbed a broom and started trying to defend myself. The intruder was a big, burly man, and he quickly overpowers me. He ties me up and starts ransacking the store. I'm terrified, and I think that the man is going to kill me. The man doesn't kill me, but he does rough me up pretty badly. He leaves me tied up in a corner of the store and makes off with a bunch of merchandise. I'm relieved to be alive but traumatized by the experience.

@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Gabbi is sitting on a mountaintop in Europe, enjoying the lunchtime view. The sun is shining and the sky is blue. Gabbi is surrounded by mountains, and the fresh air is invigorating. She is babysitting three children, who are playing nearby. The eldest child, a boy of six, is climbing a tree. The middle child, a girl of four, is picking flowers. The youngest child, a boy of two, is toddling around, exploring his surroundings. Gabbi is keeping a watchful eye on the children, making sure they are safe.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm sitting on a mountaintop in Europe, enjoying the lunchtime view. The sun is shining and the sky is blue. I'm surrounded by mountains, and the fresh air is invigorating. I'm babysitting three children, who are playing nearby. The eldest child, a boy of six, is climbing a tree. The middle child, a girl of four, is picking flowers. The youngest child, a boy of two, is toddling around, exploring his surroundings. I'm keeping a watchful eye on the children, making sure they are safe.

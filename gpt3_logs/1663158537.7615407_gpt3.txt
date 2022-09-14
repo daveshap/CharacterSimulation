@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Aleksy had just gotten home from his shift at the grocery store and was famished. He went to the fridge and grabbed a left over sandwich from the day before and headed to his bedroom to eat. He turned on the TV and sat down on his bed to eat and watch his favorite soap opera. He was half way through his sandwich when he started to feel drowsy. He turned off the TV and laid down, sandwich in hand, and promptly fell asleep.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+As soon as I got home from my shift at the grocery store, I was famished. I went to the fridge and grabbed a left over sandwich from the day before, then headed to my bedroom to eat. I turned on the TV and sat down on my bed to eat and watch my favorite soap opera. I was half way through my sandwich when I started to feel drowsy. I turned off the TV and laid down, sandwich in hand, and promptly fell asleep.

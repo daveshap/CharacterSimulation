@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun is setting over the city, casting a warm glow over the bustling streets. Aleksy is finishing up his shift at the grocery store, stocking the shelves and cleaning up after the last few customers have left. He's looking forward to finally getting home and relax after a long day. As he's closing up the store, he hears a loud crash outside. He goes to see what's going on and sees a group of teenagers, throwing rocks and graffiti-ing the store's front window. Aleksy rushes outside to try and stop them, but they take off running. He's feeling frustrated and angry as he assesses the damage. He's thankful that nobody was hurt, but he knows that it's going to cost a lot of money to fix the window. He just hopes that the insurance will cover it.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was just finishing up my shift at the grocery store when I heard a loud crash outside. I went to see what was going on and saw a group of teenagers throwing rocks and graffiti-ing the store's front window. I rushed outside to try and stop them, but they took off running. I was feeling frustrated and angry as I assessed the damage. I was thankful that nobody was hurt, but I knew that it was going to cost a lot of money to fix the window. I just hoped that the insurance would cover it.

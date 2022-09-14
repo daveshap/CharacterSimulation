@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: It's a peaceful country cottage in the middle of the night. Wang, a delivery driver, is making his rounds when he notices something strange. He can't quite put his finger on it, but something seems off. He cautiously approaches the cottage and peers in through the window. Inside, he sees a woman lying on the floor, unmoving. He knows he needs to act fast. He kicks down the door and rushes to her side. She's still breathing, but she's unresponsive. Wang calls 911 and stays with her until the ambulance arrives. It's a scary moment, but Wang is glad he was able to help.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+As I made my rounds, I noticed something strange. I couldn't quite put my finger on it, but something seemed off. I cautiously approached the cottage and peered in through the window. Inside, I saw a woman lying on the floor, unmoving. I knew I needed to act fast. I kicked down the door and rushed to her side. She was still breathing, but she was unresponsive. I called 911 and stayed with her until the ambulance arrived. It was a scary moment, but I was glad I was able to help.

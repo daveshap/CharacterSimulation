@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Jenna wakes up slowly, the early morning light filtering in through her bedroom window. She rubs her eyes and stretches, then swings her legs out of bed and stands up. She stretches again, yawning, then goes over to her dresser and begins to get dressed for the day. She puts on a pair of jeans and a t-shirt, then goes over to her mirror to brush her hair. She ties it back into a ponytail, then goes over to her bedroom door and opens it, stepping out into the hallway.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I wake up slowly, the early morning light filtering in through my bedroom window. I rub my eyes and stretch, then swing my legs out of bed and stand up. I stretch again, yawning, then go over to my dresser and begin to get dressed for the day. I put on a pair of jeans and a t-shirt, then go over to my mirror to brush my hair. I tie it back into a ponytail, then go over to my bedroom door and open it, stepping out into the hallway.

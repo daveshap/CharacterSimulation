@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Swathi is sitting on the beach, watching the sunset. She's thinking about her life and how she's grateful for what she has. She's also thinking about her future and what she wants to do with her life. She's been working as a software engineer for the past few years, but she's starting to feel like she's not doing what she really wants to do. She's beginning to think that maybe she wants to do something else with her life. She's not sure what, but she knows that she wants to make a change.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm sitting on the beach, watching the sunset. I'm thinking about my life and how grateful I am for what I have. I'm also thinking about my future and what I want to do with my life. I've been working as a software engineer for the past few years, but I'm starting to feel like I'm not doing what I really want to do. I'm beginning to think that maybe I want to do something else with my life. I'm not sure what, but I know that I want to make a change.

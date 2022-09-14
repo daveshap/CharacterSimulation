@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The forest is eerily quiet as Mashawn makes his way through the dense foliage. He's been working on the construction site for weeks now and is starting to get homesick. His mind wander as he thinks about his family back home and how he misses them. Suddenly, he hears a branch snap behind him. Whirling around, he draws his knife from his pocket, heart pounding in his chest. Peering into the darkness, he can't see anything. He starts to relax, thinking it was just his imagination, when a huge jaguar leaps out of the shadows and charges towards him. Mashawn barely has time to react before the jaguar is upon him, knocking him to the ground. He feels the sharp teeth sink into his flesh as he screams for help. The jaguar shakes him like a rag doll, before finally losing interest and wandering off into the jungle, leaving Mashawn bleeding and whimpering in pain.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+The forest is eerily quiet as I make my way through the dense foliage. I've been working on the construction site for weeks now and I'm starting to get homesick. My mind wanders as I think about my family back home and how much I miss them. Suddenly, I hear a branch snap behind me. Whirling around, I draw my knife from my pocket, my heart pounding in my chest. Peering into the darkness, I can't see anything. I start to relax, thinking it was just my imagination, when a huge jaguar leaps out of the shadows and charges towards me. I barely have time to react before the jaguar is upon me, knocking me to the ground. I feel the sharp teeth sink into my flesh as I scream for help. The jaguar shakes me like a rag doll, before finally losing interest and wandering off into the jungle, leaving me bleeding and whimpering in pain.

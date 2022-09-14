@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: It's a beautiful day and Wang is enjoying his lunch break on a mountaintop in Europe. The scenery is breathtaking and he's surrounded by peace and quiet. He's enjoying a meal of rice and vegetables when he hears a loud noise. It sounds like someone is coming up the mountain. Wang gets up to see who it is and sees a group of hikers struggling up the trail. They look exhausted and are covered in sweat. Wang waves to them and they wave back. He watch them for a few minutes before they disappear over the top of the mountain.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm enjoying my lunch break on a mountaintop in Europe. The scenery is breathtaking and I'm surrounded by peace and quiet. I'm enjoying a meal of rice and vegetables when I hear a loud noise. It sounds like someone is coming up the mountain. I get up to see who it is and see a group of hikers struggling up the trail. They look exhausted and are covered in sweat. I wave to them and they wave back. I watch them for a few minutes before they disappear over the top of the mountain.

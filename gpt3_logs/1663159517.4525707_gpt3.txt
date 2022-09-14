@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Sandy is standing on a mountaintop in Europe, basking in the afternoon sun. She enjoys the peacefulness of the moment, and the stunning views of the valleys and mountainsides below. She feels a sense of accomplishment at having made it to the top, and is eager to share her experience with her family and friends back home.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm standing on a mountaintop in Europe, basking in the afternoon sun. I enjoy the peacefulness of the moment, and the stunning views of the valleys and mountainsides below. I feel a sense of accomplishment at having made it to the top, and I'm eager to share my experience with my family and friends back home.

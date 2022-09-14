@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Wang, a delivery driver, is sitting in his car in the office building parking lot during lunch time. He is eating a sandwich and drinking a soda. He is listening to the radio and looking out the window at the people walking by. He sees a woman walking by who he recognizes as his boss's wife. He wonders what she is doing here.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm sitting in my car in the office building parking lot during lunch time. I'm eating a sandwich and drinking a soda. I'm listening to the radio and looking out the window at the people walking by. I see a woman walking by who I recognize as my boss's wife. I wonder what she is doing here.

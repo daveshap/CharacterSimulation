@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun is setting on the moon, and Bob the coffee shop owner is getting ready to close up for the night. He's sweeping the floors and wiping down the countertops, making sure everything is clean for the morning rush. As he's working, he looks up at the clock and realizes that he's running late. He quickly finishes up his chores and locks the door, turning off the lights as he goes. Bob hurries home, eager to get back to his family. He knows they'll be waiting for him, and he doesn't want to keep them up too late. As he walks through the empty streets, he can't help but feel a sense of loneliness. He's one of the only people left on the moon, and it's a feeling he's getting used to. But Bob knows that he's lucky. He has a home and a family to go back to, and he's grateful for that. He knows that as long as he has them, he'll be alright.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm sweeping the floors and wiping down the countertops, making sure everything is clean for the morning rush. As I'm working, I look up at the clock and realize that I'm running late. I quickly finish up my chores and lock the door, turning off the lights as I go. I hurry home, eager to get back to my family. I know they'll be waiting for me, and I don't want to keep them up too late. As I walk through the empty streets, I can't help but feel a sense of loneliness. I'm one of the only people left on the moon, and it's a feeling I'm getting used to. But I know that I'm lucky. I have a home and a family to go back to, and I'm grateful for that. I know that as long as I have them, I'll be alright.

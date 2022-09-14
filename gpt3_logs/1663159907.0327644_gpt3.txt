@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Sandy is out for a walk with her baby in a stroller. It's a beautiful day and the city is bustling with activity. She passes by busy restaurants and shops, and people are out and about enjoying the nice weather. Sandy stops to window shop for a moment before continuing on her way.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm out for a walk with my baby in a stroller. It's a beautiful day and the city is bustling with activity. I pass by busy restaurants and shops, and people are out and about enjoying the nice weather. I stop to window shop for a moment before continuing on my way.

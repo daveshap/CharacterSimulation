@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Swathi is sitting at her desk in her office, working on some software code. She's been working on this project for weeks and is getting close to finishing it. She's feeling good about her progress and is confident she'll be able to finish it within the next few days. Suddenly, her manager walks into her office and tells her that her project has been cancelled. Swathi is stunned. She can't believe it. She had been working so hard on this project and was so close to finishing it. Her manager tries to explain the situation to her, but Swathi is devastated. She doesn't want to hear it. She starts packing up her things, trying to hold back the tears. As she's leaving the office, she runs into one of her coworkers. They ask her what's wrong and she tells them the news. She can't believe it. She's so upset and doesn't know what she's going to do now.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was sitting at my desk in my office, working on some software code. I'd been working on this project for weeks and was getting close to finishing it. I was feeling good about my progress and was confident I'd be able to finish it within the next few days. Suddenly, my manager walked into my office and told me that my project had been cancelled. I was stunned. I couldn't believe it. I had been working so hard on this project and was so close to finishing it. My manager tried to explain the situation to me, but I was devastated. I didn't want to hear it. I started packing up my things, trying to hold back the tears. As I was leaving the office, I ran into one of my coworkers. They asked me what was wrong and I told them the news. I couldn't believe it. I was so upset and didn't know what I was going to do now.

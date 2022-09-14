@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Aleksy is in the middle of Africa, in the middle of the night. He is a grocery store clerk who is trying to get some sleep. However, he is constantly being bothered by the sound of animals outside. He can hear lions roaring, hippos wallowing, and elephants trumpeting. Occasionally, he will also hear the sound of gunfire. This make it very difficult for him to get any rest.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm in the middle of Africa, in the middle of the night, and I can't get any sleep. There are animals roaring and hippos wallowing and elephants trumpeting, and sometimes I hear gunfire. It's really hard to get any rest.

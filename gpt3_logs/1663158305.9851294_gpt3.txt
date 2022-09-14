@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Swathi is a software engineer who loves her work. She's been assigned to a new project that will take her to the moon. She's excited to be working on something so cutting edge and important. As she begins her work, she looks up at the sky and sees the sun setting. The sky is a beautiful orange, and the stars are just beginning to come out. She can't help but feel a sense of wonder at the sight. She spends the next few hours working on her project, and as the night goes on, she starts to feel a sense of peace. She's always loved the night, and there's something about being on the moon that makes her feel even more connected to the universe. She works until the early hours of the morning, and when she finally stops, she looks up at the sky again. The moon is now high in the sky, and the stars are shining brightly. She feels a sense of accomplishment at a job well done, and she knows that she's made a difference.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm Swathi, a software engineer, and I love my work. I've been assigned to a new project that will take me to the moon. I'm excited to be working on something so cutting edge and important. As I begin my work, I look up at the sky and see the sun setting. The sky is a beautiful orange, and the stars are just beginning to come out. I can't help but feel a sense of wonder at the sight. I spend the next few hours working on my project, and as the night goes on, I start to feel a sense of peace. I've always loved the night, and there's something about being on the moon that makes me feel even more connected to the universe. I work until the early hours of the morning, and when I finally stop, I look up at the sky again. The moon is now high in the sky, and the stars are shining brightly. I feel a sense of accomplishment at a job well done, and I know that I've made a difference.

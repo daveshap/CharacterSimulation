@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Tom is a bartender on a quiet beach in Asia. It's 6pm and he's just getting off work. He's looking forward to going home to his wife and two kids.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm Tom, a bartender on a quiet beach in Asia. It's 6pm and I'm just getting off work. I'm looking forward to going home to my wife and two kids.

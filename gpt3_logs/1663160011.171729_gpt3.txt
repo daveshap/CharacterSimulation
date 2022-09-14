@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Tom had just gotten off work from his bartending job and was walking through the office building where he worked to head home for the night. It was the middle of the night and the building was mostly empty, but Tom still felt a bit on edge as he walked through the darkened halls. He kept thinking he heard someone following him, but every time he turned around there was no one there. Eventually he made it to the exit and breathed a sigh of relief as he stepped outside into the cool night air.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I had just gotten off work from my bartending job and was walking through the office building where I worked to head home for the night. It was the middle of the night and the building was mostly empty, but I still felt a bit on edge as I walked through the darkened halls. I kept thinking I heard someone following me, but every time I turned around there was no one there. Eventually I made it to the exit and breathed a sigh of relief as I stepped outside into the cool night air.

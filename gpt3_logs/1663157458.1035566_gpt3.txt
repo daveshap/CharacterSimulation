@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Sandy is having a picnic dinner with her family under the Eiffel Tower. The sun is setting and the lights of the city are beginning to twinkle. Sandy's children are laughing and playing as they eat their dinner. Sandy is enjoying the peace and quiet of the evening.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm having a picnic dinner with my family under the Eiffel Tower. The sun is setting and the lights of the city are beginning to twinkle. My children are laughing and playing as they eat their dinner. I'm enjoying the peace and quiet of the evening.

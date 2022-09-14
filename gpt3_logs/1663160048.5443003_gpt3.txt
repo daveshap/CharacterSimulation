@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun is beginning to set as Bob makes his way through the dense forest. He has been walking for hours, and his feet are starting to feel sore. He takes a break to rest against a tree, and looks around him. The forest is eerily quiet, and the only sound is the leaves rustling in the breeze. Bob doesn't know how he got here. The last thing he remembers is leaving his coffee shop to go on a delivery. He doesn't know how long he's been walking, but he knows he needs to find a way out of the forest. He gets up and starts walking again, but he doesn't get far before he hears a branch snap. He freezes in his tracks and listens carefully. There it is again. Something is definitely following him. Bob starts to run, but he's tripped by a roots and falls to the ground. He looks up just in time to see a large, furry creature standing over him. Bob screams as the creature sinks its teeth into his neck.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+The sun is setting as I make my way through the dense forest. I've been walking for hours, and my feet are starting to feel sore. I take a break to rest against a tree, and look around me. The forest is eerily quiet, and the only sound is the leaves rustling in the breeze. I don't know how I got here. The last thing I remember is leaving my coffee shop to go on a delivery. I don't know how long I've been walking, but I know I need to find a way out of the forest. I get up and start walking again, but I don't get far before I hear a branch snap. I freeze in my tracks and listen carefully. There it is again. Something is definitely following me. I start to run, but I'm tripped by a roots and fall to the ground. I look up just in time to see a large, furry creature standing over me. I scream as the creature sinks its teeth into my neck.

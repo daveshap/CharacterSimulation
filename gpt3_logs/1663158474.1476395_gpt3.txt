@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Swathi is a software engineer who works long hours and often doesn't get to bed until late at night. She's up again now, in the middle of the night, pacing back and forth in her bedroom and muttering to herself. She looks tired and her hair is a little messy, as if she's been running her hands through it nervously. Every few minutes, she stops pacing and goes to sit at her desk, where her laptop is open. She stares at the screen for a minute or two, then opens up a new document and starts typing furiously. After a few minutes, she closes the document and opens up another one. She repeats this pattern a few more times, until she finally seems to give up and slams her laptop shut. She sits there for a moment, her head in her hands, before getting up and starting to pace again.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm a software engineer, so I work long hours and often don't get to bed until late at night. I'm up again now, in the middle of the night, pacing back and forth in my bedroom and muttering to myself. I look tired and my hair is a little messy, as if I've been running my hands through it nervously. Every few minutes, I stop pacing and go to sit at my desk, where my laptop is open. I stare at the screen for a minute or two, then open up a new document and start typing furiously. After a few minutes, I close the document and open up another one. I repeat this pattern a few more times, until I finally seem to give up and slam my laptop shut. I sit there for a moment, my head in my hands, before getting up and starting to pace again.

@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Wang is driving his delivery truck along a dirt road in Africa. It is getting dark and he is getting tired. He has been driving for hours, and he still has a long way to go. He is not sure if he will make it to his destination before nightfall. Suddenly, his truck hits a pothole and he hears a loud bang. He knows he has blown a tire. He pulls over to the side of the road and gets out to assess the damage. It is getting very dark now, and Wang is starting to get worried. He does not have a spare tire, and he is not sure what he will do. He is considering trying to walk to the nearest town, but he is not sure if he will be able to find his way in the dark. Suddenly, he hears a noise in the distance. It sounds like coming from the direction he was heading. He is not sure what it is, but he knows he should not stick around to find out. He starts to run in the opposite direction, and he does not look back.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm driving my delivery truck along a dirt road in Africa. It's getting dark and I'm getting tired. I've been driving for hours, and I still have a long way to go. I'm not sure if I'll make it to my destination before nightfall. Suddenly, my truck hits a pothole and I hear a loud bang. I know I've blown a tire. I pull over to the side of the road and get out to assess the damage. It's getting very dark now, and I'm starting to get worried. I don't have a spare tire, and I'm not sure what I'll do. I'm considering trying to walk to the nearest town, but I'm not sure if I'll be able to find my way in the dark. Suddenly, I hear a noise in the distance. It sounds like it's coming from the direction I was heading. I'm not sure what it is, but I know I shouldn't stick around to find out. I start to run in the opposite direction, and I don't look back.

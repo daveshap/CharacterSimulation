@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun is setting, and the stage is illuminated in a warm, golden light. The crowd is cheering and Sandy is standing in the middle of it all, surrounded by people dancing and singing along to the music. She feels happy and free, and she can't help but dance along with the rest of the crowd. The music is loud and Sandy can feel the bass vibrating through her body. She closes her eyes and lets herself get lost in the moment. She's swaying her hips and moving her arms in time with the music, and she's lost in the rhythm. She's surrounded byhappy people, and she feels like she's in the best place in the world.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I feel happy and free as I stand in the middle of the crowd, surrounded by people dancing and singing along to the music. I can't help but dance along with the rest of the crowd. The music is loud and I can feel the bass vibrating through my body. I close my eyes and let myself get lost in the moment. I'm swaying my hips and moving my arms in time with the music, and I'm lost in the rhythm. I'm surrounded byhappy people, and I feel like I'm in the best place in the world.

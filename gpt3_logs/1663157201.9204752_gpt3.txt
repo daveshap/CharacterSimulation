@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Wang is a delivery driver who is currently under the Eifel Tower. He has been asked to deliver a package to a nearby restaurant. However, he is having trouble finding the place. He has been walking around for a while, and he is starting to get tired. Wang is starting to get frustrated. He has been walking around for a while, and he still can't find the restaurant. He is about to give up when he sees a sign for the restaurant. He finally found it!
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm Wang, a delivery driver, and I'm currently under the Eifel Tower. I've been asked to deliver a package to a nearby restaurant, but I'm having trouble finding the place. I've been walking around for a while, and I'm starting to get tired. I'm starting to get frustrated. I've been walking around for a while, and I still can't find the restaurant. I'm about to give up when I see a sign for the restaurant. I finally found it!

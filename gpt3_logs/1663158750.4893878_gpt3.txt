@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: It was getting dark outside, and the coffee shop was starting to fill up with people looking for a place to relax and unwind. Bob, the owner of the shop, was busy making sure everyone had what they needed. The shop was filled with the rich aroma of coffee beans and the sound of people chatting and laughing. It was a warm and inviting place, and Bob was proud of it. He loved seeing people come in and enjoy themselves. As he moved around the shop, he greeted people and chatted with them. He loved getting to know his customers and hearing about their day. He always tried to make sure everyone felt welcome and comfortable. The coffee shop was Bob's life, and he loved every minute of it.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was getting ready to close up shop for the night when a bunch of people came in, looking for a place to relax. I got busy making sure everyone had what they needed. The rich aroma of coffee beans filled the air, and the sound of people chatting and laughing made the place feel warm and inviting. I was proud of my little coffee shop and loved seeing people come in and enjoy themselves. I greeted each customer and chatted with them, getting to know them and hearing about their day. I always tried to make sure everyone felt welcome and comfortable. The coffee shop was my life, and I loved every minute of it.

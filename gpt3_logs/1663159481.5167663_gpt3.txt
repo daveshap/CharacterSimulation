@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun is setting on a chilly autumn evening, and Aleksy is high up on a mountaintop in Europe. He's been hiking all day, and now he's exhausted. He's looking forward to reaching the top of the mountain, where he knows there's a cozy little cabin that he can rest in for the night. As he climbs higher, the air gets colder and the wind picks up. He can see his breath in the air, and he's starting to feel a bit lightheaded. Finally, he reaches the top of the mountain and stumbles towards the cabin. He's relieved to find that the cabin is still there, and even more relieved to find that the door is unlocked. He steps inside, shivering, and looks around. There's a small fireplace in one corner, and a bed in another. Aleksy is cold and hungry, but he's too tired to start a fire or cook anything. He crawls into bed, wraps himself in the blankets, and falls asleep.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+The sun is setting on a chilly autumn evening, and I'm high up on a mountaintop in Europe. I've been hiking all day, and now I'm exhausted. I'm looking forward to reaching the top of the mountain, where I know there's a cozy little cabin that I can rest in for the night. As I climb higher, the air gets colder and the wind picks up. I can see my breath in the air, and I'm starting to feel a bit lightheaded. Finally, I reach the top of the mountain and stumble towards the cabin. I'm relieved to find that the cabin is still there, and even more relieved to find that the door is unlocked. I step inside, shivering, and look around. There's a small fireplace in one corner, and a bed in another. I'm cold and hungry, but I'm too tired to start a fire or cook anything. I crawl into bed, wrap myself in the blankets, and fall asleep.

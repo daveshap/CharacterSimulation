@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun is setting behind the mountains, casting a beautiful orange glow over the snow-capped peaks. Gabbi is sitting on a bench, bundled up in a warm coat and scarf, watching the stars come out one by one. She's been babysitting the kids all evening, and they're finally asleep. It's been a long day, but Gabbi is happy to just sit here and enjoy the quiet.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I sit on the bench, watching the sun set behind the mountains. The orange glow is beautiful, and the snow-capped peaks look like they're glowing. I'm bundled up in a warm coat and scarf, and I'm happy to just sit here and enjoy the quiet. I've been babysitting the kids all evening, and they're finally asleep. It's been a long day, but I'm happy to just sit here and enjoy the peace and quiet.

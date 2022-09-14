@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Bob is a coffee shop owner in a brightly lit city. It is lunch time and Bob is busy serving customers. He is moving around quickly, taking orders and making coffee. The customers are all enjoying their drinks and conversation. The atmosphere is busy but relaxed.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm Bob, a coffee shop owner in a brightly lit city. It's lunch time and I'm busy serving customers. I'm moving around quickly, taking orders and making coffee. The customers are all enjoying their drinks and conversation. The atmosphere is busy but relaxed.

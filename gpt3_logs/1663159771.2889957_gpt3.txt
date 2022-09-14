@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Jenna was walking home from school, it was a hot day and she was sweating by the time she got home. She was about to go inside when she heard a noise in the bushes. She froze, thinking it might be a wild animal. But then she heard a voice call her name. She relaxed when she realized it was just her friend, Sarah. "What are you doing here?" Jenna asked. "I needed to talk to you," Sarah said. "It's about the test." Jenna groaned. She had completely forgotten about the test they were taking tomorrow. "I'm so sorry," she said. "I totally forgot." "It's okay," Sarah said. "I've been studying. I can help you." So they spent the next couple of hours studying together. By the time they were done, Jenna felt a lot better about the test. "Thank you so much," she said. "You're welcome," Sarah said. "Just remember, we're in this together."
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was walking home from school, it was a hot day and I was sweating by the time I got home. I was about to go inside when I heard a noise in the bushes. I froze, thinking it might be a wild animal. But then I heard a voice call my name. I relaxed when I realized it was just my friend, Sarah. "What are you doing here?" I asked. "I needed to talk to you," Sarah said. "It's about the test." I groaned. I had completely forgotten about the test we were taking tomorrow. "I'm so sorry," I said. "I totally forgot." "It's okay," Sarah said. "I've been studying. I can help you." So we spent the next couple of hours studying together. By the time we were done, I felt a lot better about the test. "Thank you so much," I said. "You're welcome," Sarah said. "Just remember, we're in this together."

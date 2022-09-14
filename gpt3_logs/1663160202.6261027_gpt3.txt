@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: As Gabbi walks through the dark forest, she hears the sound of something following her. She quickens her pace, but the thing seems to be keeping up with her. She starts to run, but she trips on a tree root and falls to the ground. The thing catches up to her and she screames as it attacks her...
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+As I walk through the dark forest, I hear the sound of something following me. I quicken my pace, but the thing seems to be keeping up with me. I start to run, but I trip on a tree root and fall to the ground. The thing catches up to me and I screames as it attacks me...

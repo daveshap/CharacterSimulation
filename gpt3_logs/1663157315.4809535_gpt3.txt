@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: It's a beautiful day on the moon. Jenna is out for a walk, enjoying the warm afternoon sun. The landscape is barren and quiet, as always. Suddenly, Jenna sees something in the distance. It looks like a spaceship! She starts to run towards it, excited to see what it is.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+It's a beautiful day on the moon. I'm out for a walk, enjoying the warm afternoon sun. The landscape is barren and quiet, as always. Suddenly, I see something in the distance. It looks like a spaceship! I start to run towards it, excited to see what it is.

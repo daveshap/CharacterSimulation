@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Swathi is a software engineer who has just awoken from a deep sleep. The room is still dark, and the only light comes from the digital alarm clock on the nightstand next to her bed. Swathi slowly rubs her eyes and then slowly gets out of bed. Her feet touch the cold floor and she shivers. She slowly walks to the window and opens the curtains. The sun is just starting to rise, and the sky is a beautiful orange color. Swathi stands there for a moment, taking in the sight. She then turns and walks to her closet, where she pulls out a pair of jeans and a shirt. She quickly gets dressed and then walks to her dresser, where she grabs a hairbrush and starts to brush her hair. After a few minutes, she is done and she puts the brush back down. She then walks to the door of her bedroom and opens it. She steps out into the hallway and starts to make her way to the kitchen.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I slowly rub my eyes and then slowly get out of bed. My feet touch the cold floor and I shiver. I slowly walk to the window and open the curtains. The sun is just starting to rise, and the sky is a beautiful orange color. I stand there for a moment, taking in the sight. I then turn and walk to my closet, where I pull out a pair of jeans and a shirt. I quickly get dressed and then walk to my dresser, where I grab a hairbrush and start to brush my hair. After a few minutes, I am done and I put the brush back down. I then walk to the door of my bedroom and open it. I step out into the hallway and start to make my way to the kitchen.

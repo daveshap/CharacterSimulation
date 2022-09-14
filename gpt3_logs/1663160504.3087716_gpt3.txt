@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The Eiffel Tower is illuminated against the night sky and the floodlit Paris skyline. Tom, a bartender, is serving drinks to customers at a bar beneath the tower. He is wearing a white shirt and black trousers. The bar is busy and there is a lively atmosphere. Tom is chatting and joking with the customers. He is pouring drinks and serving food. The customers are enjoying themselves and the sounds of laughter and conversation fill the air.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm working at the bar beneath the Eiffel Tower, and the place is packed. It's a beautiful night out and everyone's in a great mood. I'm wearing my white shirt and black pants, and I'm busy pouring drinks and serving food. The customers are laughing and chatting, and the whole place is filled with the sounds of laughter and conversation. It's a great atmosphere.

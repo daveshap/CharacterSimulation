@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The scene is an office building in the middle of the night. Bob, a coffee shop owner, is in his office, working on some paperwork. He's been working all night and is starting to get tired. He looks up at the clock and sees that it's almost 2 AM. He's just about to finish up when he hears a noise outside his office. He gets up to investigate and sees a man in a ski mask trying to break into the office next door. Bob grabs a baseball bat and confronts the man. The man tries to run away, but Bob catches up to him and knocks him out with the bat. He calls the police and tells them what happened. They arrest the man and take him away. Bob goes back to his office and finishes up his work.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was just about to finish up when I heard a noise outside my office. I got up to investigate and saw a man in a ski mask trying to break into the office next door. I grabbed a baseball bat and confronted the man. The man tried to run away, but I caught up to him and knocked him out with the bat. I called the police and told them what happened. They arrested the man and took him away. I went back to my office and finished up my work.

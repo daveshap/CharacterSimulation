@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun is just starting to peek over the horizon, casting a pink and orange glow across the sky. The birds are chirping and the animals are starting to stir. Aleksy is walking to work, carrying a bag of groceries. He looks around at the beautiful scenery and marvels at how lucky he is to live in such a beautiful place. As he approaches the grocery store, he can hear the sound of people talking and laughing inside. He smiles to himself, knowing that he is about to start his Shift. He walks inside and is greeted by his co-workers and customers. He puts on his apron and gets to work, helping the customers find what they need and bagging their groceries. The morning rushes by in a blur and before he knows it, it is time for his lunch break. He sits down outside in the sun to eat his sandwich and drink his water. He people-watches as he eats, wondering what their stories are. He feels grateful for his job and for the simple things in life.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+The sun is just starting to peek over the horizon as I walk to work, carrying a bag of groceries. I look around at the beautiful scenery and marvel at how lucky I am to live in such a beautiful place. As I approach the grocery store, I can hear the sound of people talking and laughing inside. I smile to myself, knowing that I am about to start my shift. I walk inside and am greeted by my co-workers and customers. I put on my apron and get to work, helping the customers find what they need and bagging their groceries. The morning rushes by in a blur and before I know it, it is time for my lunch break. I sit down outside in the sun to eat my sandwich and drink my water. I people-watch as I eat, wondering what their stories are. I feel grateful for my job and for the simple things in life.

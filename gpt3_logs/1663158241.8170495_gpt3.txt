@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun is just beginning to peek over the horizon, casting a pink and orange glow across the sky. A light breeze rustles the leaves of the trees surrounding the small country cottage. Birds are singing in the distance. All is peaceful and calm. Inside the cottage, Jenna is just waking up. She stretches and yawns, then climbs out of bed and heads to the window. She smiles as she looks out at the beautiful morning. Everything is so perfect and peaceful. Suddenly, Jenna hears a loud crash from the other room. She froze, her heart racing. What is that? She slowly creeps to the door and peeks around the corner. She sees a large, furry creature rummaging through her backpack, which is lying on the floor. Jenna gasps. It's a bear! The bear looks up and sees Jenna. For a moment, they just stare at each other. Then, Jenna turns and sprints out the door. She doesn't look back until she's safe.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I woke up to the sun peeking over the horizon, casting a pink and orange glow across the sky. A light breeze rustled the leaves of the trees surrounding the small country cottage. Birds were singing in the distance. All was peaceful and calm. I stretched and yawned, then climbed out of bed and headed to the window. I smiled as I looked out at the beautiful morning. Everything was so perfect and peaceful. Suddenly, I heard a loud crash from the other room. I froze, my heart racing. What is that? I slowly crept to the door and peeked around the corner. I saw a large, furry creature rummaging through my backpack, which was lying on the floor. I gasped. It's a bear! The bear looked up and saw me. For a moment, we just stared at each other. Then, I turned and sprinted out the door. I didn't look back until I was safe.

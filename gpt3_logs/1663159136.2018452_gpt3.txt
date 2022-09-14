@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun slowly rises over the city, casting a warm glow over everything. The streets are bustling with people getting ready for their day. Bob opens up his coffee shop, greeting his customers with a smile. He expertly makes each coffee, chatting with his customers as they wait. Business is good today - the line is out the door. Bob is in his element, making coffee and brightening people's days.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I open up my coffee shop, greeting my customers with a smile. I expertly make each coffee, chatting with my customers as they wait. Business is good today - the line is out the door. I'm in my element, making coffee and brightening people's days.

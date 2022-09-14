@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Tom is standing in the middle of a concert, surrounded by people who are cheering and clapping along with the music. He is wearing abartender's uniform and he has a tray of drinks in one hand. He is smiling and looks happy to be there.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm standing in the middle of a concert, surrounded by people who are cheering and clapping along with the music. I'm wearing a bartender's uniform and I have a tray of drinks in one hand. I'm smiling and I'm happy to be here.

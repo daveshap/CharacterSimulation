@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Aleksy had been walking for hours, ever since he had become separated from his group during the night. He wasn't even sure where he was anymore, except that he knew he was somewhere in the dark forest in South America. His only hope was to find his way out before nightfall. As he continued to walk, he heard a branch snap nearby. Aleksy froze, straining to see through the darkness. Suddenly, a figure emerged from the trees and Aleksy let out a scream before he was silenced by a strong hand over his mouth.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I had been walking for hours, ever since I had become separated from my group during the night. I wasn't even sure where I was anymore, except that I knew I was somewhere in the dark forest in South America. My only hope was to find my way out before nightfall. As I continued to walk, I heard a branch snap nearby. I froze, straining to see through the darkness. Suddenly, a figure emerged from the trees and I let out a scream before I was silenced by a strong hand over my mouth.

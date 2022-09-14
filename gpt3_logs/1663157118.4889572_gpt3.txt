@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun is beginning to set in the sky, painting the African landscape in a beautiful array of oranges, pinks and yellows. Gabbi is sitting on the veranda of the house she is babysitting in, watching the children play in the garden. She smiles as she watches them chasing each other around, their laughter filling the air. As the sky grows darker, Gabbi starts to sing a lullaby to the children. They quickly settle down and come to sit with her, their eyes heavy with sleep. She continues to sing as they drift off to sleep, their heads resting on her lap. Once they are both asleep, Gabbi gently lays them down in their beds and tucks them in. She gives them both a kiss goodnight and quietly leaves the room, closing the door behind her.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm sitting on the veranda, watching the children play in the garden as the sun sets. The sky is painted in a beautiful array of oranges, pinks and yellows. I smile as I watch them chasing each other around, their laughter filling the air. As the sky grows darker, I start to sing a lullaby to the children. They quickly settle down and come to sit with me, their eyes heavy with sleep. I continue to sing as they drift off to sleep, their heads resting on my lap. Once they are both asleep, I gently lay them down in their beds and tuck them in. I give them both a kiss goodnight and quietly leave the room, closing the door behind me.

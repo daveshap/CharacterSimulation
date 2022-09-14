@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Wang, a delivery driver, is making his rounds in an office building late at night. He's been making deliveries for years and knows the layout of the building like the back of his hand. He's just about to make his final delivery of the night when he hears a strange noise coming from one of the offices. He approaches the door cautiously and peers inside. It's dark, but he can see a figure moving around in the shadows. He's about to call out when he hears a crash from inside the office. Wang decides to take action. He kicks open the door and rushes inside, but it's too late. The intruder has already made off with the company's sensitive information. Wang is a hero, but the company is going to have to deal with the fallout from the data breach.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm Wang, a delivery driver, and I've been making deliveries for years. I know the layout of this office building like the back of my hand. I'm just about to make my final delivery of the night when I hear a strange noise coming from one of the offices. I approach the door cautiously and peer inside. It's dark, but I can see a figure moving around in the shadows. I'm about to call out when I hear a crash from inside the office. I decide to take action. I kick open the door and rush inside, but it's too late. The intruder has already made off with the company's sensitive information. I'm a hero, but the company is going to have to deal with the fallout from the data breach.

@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: It's the middle of the night, and Jenna is huddled in the corner of her office building, trying to stay warm. She's been here for hours, ever since she got locked out of her apartment. She's tried everything to get back in, but the doors are all locked and she can't find a way to climb up to her window. She's starting to feel really cold and hungry, and she's starting to worry that she's going to have to spend the night here.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+It's the middle of the night, and I'm huddled in the corner of my office building, trying to stay warm. I've been here for hours, ever since I got locked out of my apartment. I've tried everything to get back in, but the doors are all locked and I can't find a way to climb up to my window. I'm starting to feel really cold and hungry, and I'm starting to worry that I'm going to have to spend the night here.

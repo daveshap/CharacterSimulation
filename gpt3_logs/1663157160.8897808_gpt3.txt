@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: As the sun begins to set, the city comes to life. Bob calculates the day's receipts as he waits for the last customer to finish their coffee. The shop is brightly lit, and the air is filled with the smell of roasting beans. The customer finally leaves, and Bob begins to clean up. He wipes down the counters, restocks the shelves, and sweeps the floors. As he works, he thinks about the new coffee shop that opened up down the street. He's not worried though. He knows that his loyal customers will keep coming back.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+As the sun begins to set, I calculate the day's receipts as I wait for the last customer to finish their coffee. The shop is brightly lit, and the air is filled with the smell of roasting beans. The customer finally leaves, and I begin to clean up. I wipe down the counters, restock the shelves, and sweep the floors. As I work, I think about the new coffee shop that opened up down the street. I'm not worried though. I know that my loyal customers will keep coming back.

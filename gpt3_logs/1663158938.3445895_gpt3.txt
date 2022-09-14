@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Bob walks into his bedroom, yawning and stretching his arms. He's had a long day at work and is looking forward to getting some rest. He kicks off his shoes and climbs into bed, pulling the covers up to his chin. He closes his eyes, but after a few minutes, he starts to feel restless. He tosses and turns, but can't seem to get comfortable. He gets out of bed and goes to the window, opening the curtains and letting in some fresh air. He looks out at the street below, studying the cars and people as they go about their evening. After a few minutes, he feels calmer and climbs back into bed. He closes his eyes and finally falls asleep.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I walk into my bedroom, yawning and stretching my arms. I've had a long day at work and I'm looking forward to getting some rest. I kick off my shoes and climb into bed, pulling the covers up to my chin. I close my eyes, but after a few minutes, I start to feel restless. I toss and turn, but I can't seem to get comfortable. I get out of bed and go to the window, opening the curtains and letting in some fresh air. I look out at the street below, studying the cars and people as they go about their evening. After a few minutes, I feel calmer and I climb back into bed. I close my eyes and finally fall asleep.

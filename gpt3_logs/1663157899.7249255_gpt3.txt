@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun was high in the sky, casting a bright light over the quiet beach. Bob sat at a table, enjoying a cup of coffee and a sandwich. He watched as the waves rolled in, crashing against the shore. The sound of the waves was soothing, and the smell of the ocean was refreshing. Bob took a sip of his coffee and then bit into his sandwich, savoring the taste of the freshly-made bread.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I sat at the table, enjoying a cup of coffee and a sandwich. I watched as the waves rolled in, crashing against the shore. The sound of the waves was soothing, and the smell of the ocean was refreshing. I took a sip of my coffee and then bit into my sandwich, savoring the taste of the freshly-made bread.

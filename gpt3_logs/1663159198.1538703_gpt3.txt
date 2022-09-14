@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun is just beginning to peek over the mountaintops, casting a pink and orange glow across the sky. A chill wind is blowing, and Tom is huddled up in his coat, shivering. He's been up here all night, waiting for the perfect moment to take a photograph. The mountaintop is covered in a light dusting of snow, and Tom's breath forms little clouds in the air. His fingers are numb from the cold, but he's determined to get the shot he came for. Suddenly, the sun pops up over the horizon, and Tom snaps the picture. He can't believe he got it! The view is absolutely stunning, and he knows this photo is going to be a winner.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+The sun is just beginning to peek over the mountaintops, casting a pink and orange glow across the sky. A chill wind is blowing, and I'm huddled up in my coat, shivering. I've been up here all night, waiting for the perfect moment to take a photograph. The mountaintop is covered in a light dusting of snow, and my breath forms little clouds in the air. My fingers are numb from the cold, but I'm determined to get the shot I came for. Suddenly, the sun pops up over the horizon, and I snap the picture. I can't believe I got it! The view is absolutely stunning, and I know this photo is going to be a winner.

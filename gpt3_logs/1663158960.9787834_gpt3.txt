@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Gabbi is at a concert with her young charges, trying to keep them under control while also enjoying the music. It's a sunny day and the outdoor venue is packed with people of all ages, dancing and singing along to the band. The kids are getting antsy, but Gabbi is doing her best to keep them entertained. Suddenly, one of the kids starts to cry and Gabbi quickly steps in to comfort them. She manages to calm them down and gets them back to enjoying the concert.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm at a concert with my young charges, trying to keep them under control while also enjoying the music. It's a sunny day and the outdoor venue is packed with people of all ages, dancing and singing along to the band. The kids are getting antsy, but I'm doing my best to keep them entertained. Suddenly, one of the kids starts to cry and I quickly step in to comfort them. I manage to calm them down and get them back to enjoying the concert.

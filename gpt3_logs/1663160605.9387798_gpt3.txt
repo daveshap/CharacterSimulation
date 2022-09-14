@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Sandy is walking down the street, returning home from her afternoon walk. The sun is setting and the city is starting to light up. Sandy feels a sense of peace and happiness as she walks through the quiet streets. She waves to a neighbor as she passes by, and she can hear the sound of laughter coming from a nearby park. As Sandy approaches her home, she notices that the lights are on and she can see her husband and children through the windows. She feels a surge of love and happiness as she walks up to the house and goes inside.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+As I walk down the street, returning home from my afternoon walk, I feel a sense of peace and happiness. The sun is setting and the city is starting to light up. I wave to a neighbor as I pass by, and I can hear the sound of laughter coming from a nearby park. As I approach my home, I notice that the lights are on and I can see my husband and children through the windows. I feel a surge of love and happiness as I walk up to the house and go inside.

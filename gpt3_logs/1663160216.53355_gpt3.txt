@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Wang steps out of his airlock onto the dusty, gray surface of the moon. He takes a deep breath of the sterile air and adjusts his suit. He starts walking across the lunar landscape, his destination the nearby moon base. As he walks, he takes in the desolate beauty of his surroundings. The sun casts a cold light on the jagged mountains and craters. Wang feels a sense of peace and wonder as he marches onward. He soon arrives at the base and is greeted by the other inhabitants. They invite him in for lunch and Wang eagerly accepts. He takes off his helmet and enjoys a meal with his new friends, feeling grateful for the moment of companionship in this lonely place.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I step out of my airlock and onto the dusty, gray surface of the moon. I take a deep breath of the sterile air and adjust my suit. I start walking across the lunar landscape, my destination the nearby moon base. As I walk, I take in the desolate beauty of my surroundings. The sun casts a cold light on the jagged mountains and craters. I feel a sense of peace and wonder as I march onward. I soon arrive at the base and am greeted by the other inhabitants. They invite me in for lunch and I eagerly accept. I take off my helmet and enjoy a meal with my new friends, feeling grateful for the moment of companionship in this lonely place.

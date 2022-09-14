@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The scene is set in an office building, early in the morning. Aleksy, a grocery store clerk, is busy at work, keeping the place tidy and organized. He works diligently, making sure that everything is in its proper place. Suddenly, he hears a loud noise coming from one of the nearby offices. It sounds like something has fallen and shattered. Aleksy goes to investigate and finds that a vase has been knocked over and broken. He looks around to see if anyone is nearby who could have seen what happened, but there is no one in sight. Aleksy carefully cleans up the mess and goes back to his work.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was busy at work, keeping the place tidy and organized, when I suddenly heard a loud noise. It sounded like something had fallen and shattered. I went to investigate and found that a vase had been knocked over and broken. I looked around to see if anyone is nearby who could have seen what happened, but there was no one in sight. I carefully cleaned up the mess and went back to my work.

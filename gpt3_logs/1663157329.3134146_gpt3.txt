@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Jenna is in the middle of a concert, sitting in the front row. She is surrounded by other high schoolers, who are all cheering and clapping along to the music. The concert is taking place in an outdoor venue, and the sun is just beginning to rise. The stage is lit up with spotlights, and the band is playing their hearts out. Jenna is having the time of her life, dancing and singing along to the music.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm surrounded by other high schoolers, all cheering and clapping along to the music. We're at an outdoor concert, and the sun is just beginning to rise. The stage is lit up with spotlights, and the band is playing their hearts out. I'm having the time of my life, dancing and singing along to the music.

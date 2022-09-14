@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Mashawn is a construction worker who is working the night shift. He is in an office building that is under construction. It is the middle of the night, and Mashawn is the only one working. He is using a power drill to drill through a concrete wall. The noise is echoing through the empty building. Mashawn is sweating from the effort of drilling through the wall. He is wearing a hard hat and a reflector vest. He is surrounded by piles of rubble and dust. His drill battery is running low, and he is getting tired. He takes a break to rest and wipe the sweat from his brow. He looks around at the unfinished office building and wonders how much longer he will have to work on it.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm Mashawn, a construction worker, and I'm working the night shift. I'm in an office building that's under construction. It's the middle of the night, and I'm the only one working. I'm using a power drill to drill through a concrete wall. The noise is echoing through the empty building. I'm sweating from the effort of drilling through the wall. I'm wearing a hard hat and a reflector vest. I'm surrounded by piles of rubble and dust. My drill battery is running low, and I'm getting tired. I take a break to rest and wipe the sweat from my brow. I look around at the unfinished office building and wonder how much longer I'll have to work on it.

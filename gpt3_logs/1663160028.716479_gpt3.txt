@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Mashawn is sitting on a bench in the park, enjoying his lunch break. The sun is shining and the birds are chirping. He people-watches for a while, enjoying the happy hustle and bustle of the city. He takes out his sandwich and takes a bite, savoring the deliciousness. He notices a group of children playing tag nearby, and he can't help but smile at their innocence. Suddenly, his phone rings, and he answers it. It's his boss, telling him that he's needed back on the job site. Mashawn sighs, but he knows he has to get back to work. He wraps up his lunch, says goodbye to the happy city scene, and heads back to the construction site.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm sitting on a bench in the park, enjoying my lunch break. The sun is shining and the birds are chirping. I people-watch for a while, enjoying the happy hustle and bustle of the city. I take out my sandwich and take a bite, savoring the deliciousness. I notice a group of children playing tag nearby, and I can't help but smile at their innocence. Suddenly, my phone rings, and I answer it. It's my boss, telling me that I'm needed back on the job site. I sigh, but I know I have to get back to work. I wrap up my lunch, say goodbye to the happy city scene, and head back to the construction site.

@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: It's a beautiful day in Africa. The sun is shining and the temperature is perfect. Jenna is sitting on the porch of her school, eating her lunch and enjoying the view. She's surrounded by her classmates, who are chatting and laughing. All of a sudden, a lion appears out of nowhere and starts stalking Jenna. The other students scream and run away, but Jenna is frozen in fear. The lion gets closer and Jenna is sure that she's going to die. But then, something amazing happens. The lion stops and sits down next to Jenna, as if it's trying to comfort her. Jenna slowly relaxes and starts petting the lion. It's an incredible experience that she'll never forget.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was sitting on the porch at school, enjoying my lunch and the beautiful view. I was surrounded by my classmates, who were chatting and laughing. All of a sudden, a lion appeared out of nowhere and started stalking me. The other students screamed and ran away, but I was frozen in fear. The lion got closer and I was sure that I was going to die. But then, something amazing happened. The lion stopped and sat down next to me, as if it was trying to comfort me. I slowly relaxed and started petting the lion. It was an incredible experience that I'll never forget.

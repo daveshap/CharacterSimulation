@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun is shining and the birds are singing. Jenna is sitting at a table on the porch of her country cottage, enjoying a leisurely lunch. She's got a sandwich and a glass of lemonade, and she's feeling pretty good about life. It's a beautiful day, and she's surrounded by the peace and quiet of the countryside.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+The sun is shining and the birds are singing. I'm sitting at a table on the porch of my country cottage, enjoying a leisurely lunch. I've got a sandwich and a glass of lemonade, and I'm feeling pretty good about life. It's a beautiful day, and I'm surrounded by the peace and quiet of the countryside.

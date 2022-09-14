@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: It's early morning, and the sun is just starting to peek over the horizon. The sky is a beautiful orange, and the air is warm and dry. Mashawn is walking to his job site, a construction site in the middle of nowhere. He's carrying a large bag of tools over his shoulder, and he's wearing a hard hat and a reflective vest. He's got a strong, muscular build, and he's sweat already from the heat. As he approaches the site, he can see the other workers milling around, getting ready for the day's work. There's a large hole in the ground that will eventually be the foundation for a new building. Mashawn walks over to his work station and puts down his bag of tools. He pulls out a hammer and a nail, and begins working on the building's frame. The day goes by slowly, but eventually the sun starts to set and the work day comes to an end. Mashawn put away his tools and trudges back home, tired but satisfaction from a day's work well done.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm walking to my job site, a construction site in the middle of nowhere. I'm carrying a large bag of tools over my shoulder, and I'm wearing a hard hat and a reflective vest. I'm sweating already from the heat, and I can see the other workers milling around, getting ready for the day's work. There's a large hole in the ground that will eventually be the foundation for a new building. I walk over to my work station and put down my bag of tools. I pull out a hammer and a nail, and begin working on the building's frame. The day goes by slowly, but eventually the sun starts to set and the work day comes to an end. I put away my tools and trudge back home, tired but satisfaction from a day's work well done.

@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: It is early morning on the moon. Gabbi, a babysitter, is taking care of a young girl. They are both wearing lunar suits and helmets. They are in a lunar rover, driving across the lunar surface. Gabbi is pointing out various features of the landscape to the girl. They are both excited to be on the moon.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm Gabbi, the babysitter, and I'm taking care of a young girl on the moon. We're both wearing lunar suits and helmets, and we're driving across the lunar surface in a rover. I'm pointing out various features of the landscape to the girl, and we're both excited to be on the moon.

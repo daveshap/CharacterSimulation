@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: It's a beautiful day on the moon. The sun is high in the sky and the temperature is just perfect. Bob is enjoying a cup of coffee on the porch of his coffee shop, taking in the view. Suddenly, a customer comes running up to the shop. He's out of breath and looks very frantic. "Bob, you've got to help me!" he exclaimed. "My spaceship just crashed and I need a cup of coffee to help me think!" Bob calmly got up and went inside to make his customer a cup of coffee. He knows that when you're stranded on the moon, a good cup of coffee can be the difference between life and death.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was enjoying a cup of coffee on the porch of my coffee shop, taking in the view. It was a beautiful day on the moon. The sun was high in the sky and the temperature was just perfect. Suddenly, a customer came running up to the shop. He was out of breath and looked very frantic. "Bob, you've got to help me!" he exclaimed. "My spaceship just crashed and I need a cup of coffee to help me think!" I calmly got up and went inside to make my customer a cup of coffee. I know that when you're stranded on the moon, a good cup of coffee can be the difference between life and death.

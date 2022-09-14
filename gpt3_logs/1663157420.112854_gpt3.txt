@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Bob is a coffee shop owner in a busy city. It's the middle of the night, and his shop is brightly lit. He's busy making coffee and serving customers. There are people milling about, talking and laughing. The atmosphere is festive and Bob is enjoying himself.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm Bob, the owner of a coffee shop in a busy city. It's the middle of the night, but my shop is brightly lit. I'm busy making coffee and serving customers. There are people milling about, talking and laughing. The atmosphere is festive and I'm enjoying myself.

@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Wang is a delivery driver who is currently on his lunch break. He's sitting on a bench near his truck, enjoying a meal of rice and beans. The sun is beating down on him, but he doesn't mind. He's used to the heat. Suddenly, he hears a loud noise. He looks up and sees a herd of elephants stampeding towards him. He knows he won't be able to outrun them, so he quickly jumps into his truck and tries to start it. The engine roars to life and he hits the gas, speeding away from the dangerous animals. He breathes a sigh of relief as he puts some distance between himself and the elephants. That was a close one!
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was sitting on a bench near my truck, enjoying a meal of rice and beans, when I suddenly heard a loud noise. I looked up and saw a herd of elephants stampeding towards me. I knew I wouldn't be able to outrun them, so I quickly jumped into my truck and tried to start it. The engine roared to life and I hit the gas, speeding away from the dangerous animals. I breathed a sigh of relief as I put some distance between myself and the elephants. That was a close one!

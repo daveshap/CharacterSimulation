@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun was beating down on Jenna as she walked along the beach. She was carrying a towel and a bag with her lunch in it. She found a spot to sit down and spread her towel out. She opened her bag and took out her sandwich and a can of soda. She popped the can open and took a sip. She leaned back against the towel and enjoyed the sound of the waves crashing against the shore.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+The sun beats down on me as I walk along the beach. I'm carrying a towel and a bag with my lunch in it. I find a spot to sit down and spread my towel out. I open my bag and take out my sandwich and a can of soda. I pop the can open and take a sip. I lean back against the towel and enjoy the sound of the waves crashing against the shore.

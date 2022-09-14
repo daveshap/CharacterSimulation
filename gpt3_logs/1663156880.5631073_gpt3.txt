@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Wang enters the bedroom, placing a delivery on the bed. He looks around the room, taking in the various pieces of furniture and decorations. He notices a photo of the customer on the bedside table and pauses for a moment, looking at it. He then continues his delivery, placing the rest of the items in the room. He finishes his delivery and prepares to leave, but pauses when he sees the customer's laptop on the bed. He looks around the room again, and then decides to take the laptop with him.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I enter the bedroom, placing a delivery on the bed. I look around the room, taking in the various pieces of furniture and decorations. I notice a photo of the customer on the bedside table and pause for a moment, looking at it. I then continue my delivery, placing the rest of the items in the room. I finish my delivery and prepare to leave, but pause when I see the customer's laptop on the bed. I look around the room again, and then decide to take the laptop with me.

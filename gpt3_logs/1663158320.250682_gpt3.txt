@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: It's lunch time, and the office building is bustling with activity. Bob, the coffee shop owner, is busy serving up the day's specials. The aroma of freshly brewed coffee and baked goods fills the air, and the sound of laughter and conversation can be heard coming from the nearby tables. The customers are enjoying their food and drink, and the mood is light and cheerful. Bob takes a moment to chat with some of the regulars, and he can't help but smile at the happiness that seems to fill the room. It's times like these that make Bob love his job. He knows that he's providing a service that helps to make people's days just a little bit better, and that's something that he takes a lot of pride in.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I love my job. It's times like these, when the coffee shop is bustling with activity and the customers are enjoying their food and drink, that make me proud to be the owner. I know that I'm providing a service that helps to make people's days just a little bit better, and that's something that I take a lot of pride in.

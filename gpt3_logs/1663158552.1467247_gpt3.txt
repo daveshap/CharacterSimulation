@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Tom was in the middle of his lunch break, sitting at his desk in the office building where he worked. He was scrolling through his phone, when he heard a loud crash coming from the floor below. He got up to see what was going on and saw that a large chandelier had fallen from the ceiling and smashed onto the floor. People were screaming and running around in a panic. Tom quickly ran down the stairs to see if he could help. He saw that there were several people injured, and he started to help them to safety.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was in the middle of my lunch break, sitting at my desk in the office building where I worked. I was scrolling through my phone, when I heard a loud crash coming from the floor below. I got up to see what was going on and saw that a large chandelier had fallen from the ceiling and smashed onto the floor. People were screaming and running around in a panic. I quickly ran down the stairs to see if I could help. I saw that there were several people injured, and I started to help them to safety.

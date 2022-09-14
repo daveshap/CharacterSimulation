@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Tom is walking along the beach, enjoying the quiet night. He's carrying a backpack full of supplies, and he's headed to a nearby island. The island is a popular tourist destination, but it's currently deserted. Tom is planning to set up a bar on the island, and he's looking forward to having the place to himself. As he approaches the island, he sees a light coming from the beach. Someone is already on the island! Tom drops his backpack and runs towards the light. He arrives to find a young woman setting up a campfire. Tom is surprised to see someone on the island, but he's happy to have the company. He introduces himself to the woman, and they chat for a while by the fire.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was walking along the beach, enjoying the quiet night. I was carrying a backpack full of supplies, and I was headed to a nearby island. The island was a popular tourist destination, but it was currently deserted. I was planning to set up a bar on the island, and I was looking forward to having the place to myself. As I approached the island, I saw a light coming from the beach. Someone was already on the island! I dropped my backpack and ran towards the light. I arrived to find a young woman setting up a campfire. I was surprised to see someone on the island, but I was happy to have the company. I introduced myself to the woman, and we chatted for a while by the fire.

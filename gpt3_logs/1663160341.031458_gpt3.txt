@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Tom loved his job as a bartender, especially when he got to work in unique places like under the Eiffel Tower. He loved watching the sunset from his spot behind the bar, and he loved chatting with the tourists who came to visit. Tonight, the sunset was especially beautiful, and the bar was packed with people from all over the world. Tom was busy making drinks and chatting with customers, but he always made time to appreciate the view. As the sun began to set, Tom noticed a young couple standing near the edge of the bar, gazing up at the Tower. They were holding hands and whispering to each other, and Tom could see the love and happiness in their eyes. It was moments like this that made Tom love his job. He was happy to be able to share in the joy of others, and to help make their memories of Paris even more special.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I love my job as a bartender, especially when I get to work in unique places like under the Eiffel Tower. I love watching the sunset from my spot behind the bar, and I love chatting with the tourists who come to visit. Tonight, the sunset was especially beautiful, and the bar was packed with people from all over the world. I was busy making drinks and chatting with customers, but I always made time to appreciate the view. As the sun began to set, I noticed a young couple standing near the edge of the bar, gazing up at the Tower. They were holding hands and whispering to each other, and I could see the love and happiness in their eyes. It was moments like this that made me love my job. I was happy to be able to share in the joy of others, and to help make their memories of Paris even more special.

@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Wang is driving his delivery truck through the city when he gets caught in the middle of a massive concert. Thousands of people are cheering and singing along to the music, which is blasting from huge speakers all around him. Wang's truck is surrounded by people dancing and jumping up and down, and he can barely move forward. He honks his horn and tries to inch his way through the crowd, but it's impossible. He's finally forced to stop and wait it out until the concert ends.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was driving my delivery truck through the city when I got caught in the middle of a massive concert. Thousands of people were cheering and singing along to the music, which was blasting from huge speakers all around me. My truck was surrounded by people dancing and jumping up and down, and I could barely move forward. I honked my horn and tried to inch my way through the crowd, but it was impossible. I was finally forced to stop and wait it out until the concert ended.

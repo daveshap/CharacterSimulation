@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Wang is a delivery driver who has just arrived at a peaceful country cottage. It is dusk, and the cottage is surrounded by a beautiful garden. Wang is greeted by the owner of the cottage, who invites him in for a cup of tea. Wang accepts, and the two sit down in the cosy living room. The owner asks Wang about his work, and Wang tells him about his day. The owner then asks Wang if he would like to stay for dinner, and Wang accepts. The two enjoy a lovely meal together, and Wang is grateful for the owner's hospitality.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+When I arrived at the cottage, I was greeted by the owner, who invited me in for a cup of tea. I accepted, and we sat down in the cosy living room. The owner asked me about my work, and I told him about my day. The owner then asked me if I would like to stay for dinner, and I accepted. We enjoyed a lovely meal together, and I was grateful for the owner's hospitality.

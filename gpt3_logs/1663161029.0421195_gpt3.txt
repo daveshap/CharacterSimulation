@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun is shining brightly outside as Gabbi enters the cottage. It's a peaceful place, with a small garden out front and a woodpile off to the side. Inside, the cottage is cozy and warm, with a fire burning in the fireplace. Gabbi hangs her coat up and goes to check on the children, who are playing happily in the next room. Everything is calm and peaceful, and Gabbi can't help but feel happy in this idyllic setting.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+As I enter the cottage, the sun is shining brightly outside. It's a peaceful place, with a small garden out front and a woodpile off to the side. Inside, the cottage is cozy and warm, with a fire burning in the fireplace. I hang my coat up and go to check on the children, who are playing happily in the next room. Everything is calm and peaceful, and I can't help but feel happy in this idyllic setting.

@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Aleksy, a grocery store clerk, is taking a break from his shift to enjoy a cigarette under the Eiffel Tower. He leans against the railing, taking in the view of the city around him. The sunset casts a pink and orange glow over the skyline, and the twinkling lights of the tower are just starting to come on. Aleksy takes a deep drag of his cigarette, exhaling a stream of smoke into the air. He smiles to himself, feeling happy to be in such a beautiful place.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I lean against the railing, taking in the view of the city around me. The sunset casts a pink and orange glow over the skyline, and the twinkling lights of the tower are just starting to come on. I take a deep drag of my cigarette, exhaling a stream of smoke into the air. I smile to myself, feeling happy to be in such a beautiful place.

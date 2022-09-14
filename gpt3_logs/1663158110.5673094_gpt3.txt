@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: It's a beautiful day and Swathi is enjoying a hike on a mountaintop in Europe. She's taken in the stunning views and is now resting on a large boulder, enjoying a snack and soaking up the sunshine. Suddenly, she hears a loud noise and looks up to see a massive avalanche coming right towards her. She has just enough time to jump off the boulder and take cover behind a tree before the avalanche hits. Swathi is terrified as she watches the snow and debris come thundering down around her. She's relieved when it finally stops and she's able to assess the damage. Thankfully, she's unharmed but her heart is pounding from the near-miss.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was enjoying a hike on a mountaintop in Europe when I heard a loud noise. I looked up and saw a massive avalanche coming towards me. I jumped off the boulder and took cover behind a tree just in time. I was terrified as I watched the snow and debris come thundering down around me. I was relieved when it finally stopped and I was able to assess the damage. Thankfully, I was unharmed but my heart was pounding from the near-miss.

@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Jenna, a high schooler, is walking through a dark forest in South America early in the morning. She is walking quickly and nervously, looking around her constantly. She is carrying a small backpack and a flashlight. She hears something in the distance and starts to run.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm walking through a dark forest in South America early in the morning. I'm walking quickly and nervously, looking around me constantly. I'm carrying a small backpack and a flashlight. I hear something in the distance and start to run.

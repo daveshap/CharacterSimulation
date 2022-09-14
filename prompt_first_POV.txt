@@ -1,0 +1,5 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: <<SCENE>>
+
+REWRITE AS FIRST PERSON:

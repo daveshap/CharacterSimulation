@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun hangs low in the sky, casting a golden glow over the mountaintops. A light breeze ruffles Jenna's hair as she stands at the edge of the cliff, gazing out at the breathtaking view. She feels a sense of peace and calm wash over her, and for a moment, she forgets all her troubles back at home. Jenna is here on a school trip, and she's been looking forward to this day for weeks. She's never been to Europe before, and she's excited to explore all the different countries. She knows she'll never forget this trip, no matter what happens. standing at the edge of the cliff, gazing out at the breathtaking view
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I stand at the edge of the cliff, gazing out at the breathtaking view. The sun hangs low in the sky, casting a golden glow over the mountaintops. A light breeze ruffles my hair, and I feel a sense of peace and calm wash over me. For a moment, I forget all my troubles back at home. I'm here on a school trip, and I've been looking forward to this day for weeks. I've never been to Europe before, and I'm excited to explore all the different countries. I know I'll never forget this trip, no matter what happens.

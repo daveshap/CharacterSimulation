@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Jenna opens her bedroom door and steps inside. The room is a mess, with clothes and books strewn everywhere. She makes her way to the bed and flops down onto it, letting out a sigh. She lies there for a few moments, staring up at the ceiling. Then she sits up and starts picking up the clothes off the floor, putting them into a hamper. She neatens up the books on her desk and then flops back down onto the bed again. She picks up her phone and starts scrolling through social media. After a few minutes, she puts the phone down and gets up again. She goes over to her closet and starts looking through her clothes. She tries on a few outfits, standing in front of the mirror to see how they look. Finally, she settles on a pair of jeans and a shirt. She gets dressed and then sits back down at her desk. She starts working on her homework, but after a few minutes she gets distracted and starts playing on her phone again.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I open my bedroom door and step inside. The room is a mess, with clothes and books strewn everywhere. I make my way to the bed and flop down onto it, letting out a sigh. I lie there for a few moments, staring up at the ceiling. Then I sit up and start picking up the clothes off the floor, putting them into a hamper. I neaten up the books on my desk and then flop back down onto the bed again. I pick up my phone and start scrolling through social media. After a few minutes, I put the phone down and get up again. I go over to my closet and start looking through my clothes. I try on a few outfits, standing in front of the mirror to see how they look. Finally, I settle on a pair of jeans and a shirt. I get dressed and then sit back down at my desk. I start working on my homework, but after a few minutes I get distracted and start playing on my phone again.

@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: It's mid-afternoon and Tom is in his bedroom. He's lying on his bed, fully clothed, with his arm across his eyes. He looks like he's trying to block out the light. There's a half-empty bottle of whiskey on the nightstand, and an empty glass next to it. It's clear that Tom has been drinking. He hears a noise and raises his head to see his girlfriend, Sarah, standing in the doorway. She's holding a suitcase in one hand and a box in the other. There's a look of determination on her face. Tom sits up and Sarah comes into the room. She puts the suitcase and box down and looks at Tom. "I'm leaving," she says. "I can't do this anymore. I'm sorry." Tom looks at her for a moment, then nods. He doesn't say anything. Sarah turns and picks up her things again. She starts to walk out of the room, but pauses and looks back at Tom. "I loved you," she says. "I really did." Then she's gone, and Tom is alone.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was lying on my bed, trying to block out the light with my arm across my eyes. I could hear Sarah coming up the stairs, and I knew she was coming to my room. I sat up and she came in, holding a suitcase and a box. She looked determined. "I'm leaving," she said. "I can't do this anymore. I'm sorry." I looked at her for a moment, then nodded. I didn't say anything. Sarah turned and picked up her things again. She started to walk out of the room, but paused and looked back at me. "I loved you," she said. "I really did." Then she was gone, and I was alone.

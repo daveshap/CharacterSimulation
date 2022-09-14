@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: It's a bright and sunny day in the city, and the lunchtime crowd is out and about. Swathi, a software engineer, is walking down the street, enjoying the warm weather. She's looking forward to her lunch break, when she can relax and enjoy a good meal.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm walking down the street on a bright and sunny day, enjoying the warm weather. I'm looking forward to my lunch break, when I can relax and enjoy a good meal.

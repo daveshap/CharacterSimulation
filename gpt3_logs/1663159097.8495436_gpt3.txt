@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Wang is a delivery driver who is working in a brightly lit city. He is driving a van and is stopped at a red light. He is wearing a uniform and is holding a package. He is looking at his phone and seems to be waiting for a text.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm Wang, a delivery driver, and I'm stopped at a red light in a brightly lit city. I'm wearing a uniform and holding a package. I'm looking at my phone and seems to be waiting for a text.

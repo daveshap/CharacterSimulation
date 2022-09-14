@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Gabbi is sitting at her desk in the office, surrounded by piles of papers. She looks up as the door opens and a woman walks in. The woman is holding a baby. Gabbi smiles and gets up from her desk. "Hello, Mrs. Saunders. How are you today?" "I'm fine, thank you," Mrs. Saunders replies. "I'm just here to drop off my son, Joshua. His babysitter cancelled on me last minute, so I was wondering if you could watch him for a couple of hours." "Of course," Gabbi says. "I would be happy to." She takes Joshua from Mrs. Saunders and settles him in a nearby playpen. Joshua starts to cry, but Gabbi quickly picks him up and starts to rock him. "There, there," she murmurs. "It's okay. Gabbi's here." Soon, Joshua is calm and happy, playing contentedly with his toys. Gabbi watches him with a smile on her face, her heart warming at the sight of the happy little boy.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm sitting at my desk in the office, surrounded by piles of papers, when the door opens and Mrs. Saunders walks in. She's holding a baby. I smile and get up from my desk. "Hello, Mrs. Saunders. How are you today?" "I'm fine, thank you," Mrs. Saunders replies. "I'm just here to drop off my son, Joshua. His babysitter cancelled on me last minute, so I was wondering if you could watch him for a couple of hours." "Of course," I say. "I would be happy to." I take Joshua from Mrs. Saunders and settle him in a nearby playpen. Joshua starts to cry, but I quickly pick him up and start to rock him. "There, there," I murmur. "It's okay. Gabbi's here." Soon, Joshua is calm and happy, playing contentedly with his toys. I watch him with a smile on my face, my heart warming at the sight of the happy little boy.

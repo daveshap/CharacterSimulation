@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Swathi is a software engineer who is currently working on a project in Africa. It is the middle of the night, and she is sitting in her tent, working on her laptop. She is surrounded by the sounds of the African wilderness - the calls of the animals, the rustling of the leaves in the breeze. She is wearing a pair of shorts and a T-shirt, and her hair is pulled back in a ponytail. She is concentrating on her work, typing away at her laptop. Every so often, she stops to check her phone, which is sitting on the table next to her.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I am Swathi, a software engineer, and I am currently working on a project in Africa. It is the middle of the night, and I am sitting in my tent, working on my laptop. I am surrounded by the sounds of the African wilderness - the calls of the animals, the rustling of the leaves in the breeze. I am wearing a pair of shorts and a T-shirt, and my hair is pulled back in a ponytail. I am concentrating on my work, typing away at my laptop. Every so often, I stop to check my phone, which is sitting on the table next to me.

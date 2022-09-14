@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: As the sun began to set, the cityscape was bathed in a warm, orange glow. The hustle and bustle of the day slowly started to die down, and Bob began to prepare for the evening rush at his coffee shop. He wiped down the countertops and made sure the coffee was brewing fresh. Soon, the first of his customers started to trickle in. They were weary from a long day of work and were eagerly looking for a pick-me-up. Bob knew just what they needed. He greeted each of them with a smile and served them their favorite drinks. As the night went on, the shop filled up with people. They were all chatting and laughing, enjoying each other's company. Bob felt grateful to be a part of this community. He loved watching people come together and connect over a simple cup of coffee.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+As the sun began to set, I saw the cityscape bathed in a warm, orange glow. The hustle and bustle of the day slowly started to die down, and I began to prepare for the evening rush at my coffee shop. I wiped down the countertops and made sure the coffee was brewing fresh. Soon, the first of my customers started to trickle in. They were weary from a long day of work and were eagerly looking for a pick-me-up. I knew just what they needed. I greeted each of them with a smile and served them their favorite drinks. As the night went on, the shop filled up with people. They were all chatting and laughing, enjoying each other's company. I felt grateful to be a part of this community. I loved watching people come together and connect over a simple cup of coffee.

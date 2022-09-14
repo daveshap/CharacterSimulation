@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: It is the middle of the night, and Swathi is working in her office. She is a software engineer, and she is working on a new project. She is sitting at her desk, typing away on her computer. She is concentration deeply on her work, and she does not notice the noise that is coming from outside her window.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm working in my office in the middle of the night, concentrating deeply on my new project. I'm a software engineer, and I'm sitting at my desk, typing away on my computer. I don't notice the noise that's coming from outside my window.

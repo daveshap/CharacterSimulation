@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Sandy enters the office building and heads to the elevator. She pushes the button for the elevator and waits. After a few moments, the elevator arrives and she gets on. She pushes the button for her floor and the elevator starts to ascent. A few moments later, it arrives at her floor and the doors open. Sandy steps out and heads to her office.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+As I enter the office building, I head for the elevator. I push the button for the elevator and wait. After a few moments, it arrives and I get on. I push the button for my floor and the elevator starts to ascent. A few moments later, it arrives at my floor and the doors open. I step out and head to my office.

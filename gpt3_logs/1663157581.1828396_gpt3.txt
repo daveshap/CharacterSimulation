@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Wang is driving his delivery truck through the city. The streets are brightly lit and there is a lot of traffic. He makes his way through the city, making deliveries and picking up packages. He eventually makes his way to the outskirts of the city, where he makes his final delivery. He then drives back to the city and park his truck in a garage.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm driving my delivery truck through the city, making my way through the traffic. The streets are brightly lit and there's a lot of noise. I make my way through the city, making deliveries and picking up packages. I eventually make it to the outskirts of the city, where I make my final delivery. I then drive back to the city and park my truck in a garage.

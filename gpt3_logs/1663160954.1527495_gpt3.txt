@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Bob arrives at his office building and heads to the coffee shop on the first floor. He greets the barista and orders his usual coffee. As he waits for his drink, he looks around the shop and notices that it is fairly empty. He then sees a woman enter the shop and walk up to the counter. The woman looks around and then approaches Bob. "Excuse me, do you work here?" she asks. Bob shakes his head. "No, I don't." The woman looks disappointed and then says, "I'm looking for someone who can help me with my computer. It's been acting up all morning and I can't seem to fix it." Bob thinks for a moment and then says, "Well, my friend John works in the IT department. Maybe he can help you." The woman thanks Bob and then heads to the IT department. Bob watch
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I arrived at my office building and headed to the coffee shop on the first floor. I greeted the barista and ordered my usual coffee. As I waited for my drink, I looked around the shop and noticed that it was fairly empty. I then saw a woman enter the shop and walk up to the counter. The woman looked around and then approached me. "Excuse me, do you work here?" she asked. I shook my head. "No, I don't." The woman looked disappointed and then said, "I'm looking for someone who can help me with my computer. It's been acting up all morning and I can't seem to fix it." I thought for a moment and then said, "Well, my friend John works in the IT department. Maybe he can help you." The woman thanked me and then headed to the IT department. I watched her go, then finished my coffee and headed to my own office.

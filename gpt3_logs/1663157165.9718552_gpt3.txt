@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Mashawn is a construction worker who is working on the Eiffel Tower. He is working on the scaffolding around the tower, and he is wearing a safety harness. He is using a power drill to drill holes into the scaffolding. The noise of the drill echoes under the tower. Mashawn is sweating, and his muscles are straining as he works. He is concentrated and focused on his work. Suddenly, there is a loud noise from above. Mashawn looks up and sees that one of the scaffolding poles has snapped and is falling towards him. He tries to move out of the way, but the pole hits him and knocks him off the scaffolding. Mashawn screams as he falls. He hits the ground hard and is knocked unconscious.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm Mashawn, a construction worker. I'm working on the Eiffel Tower, drilling holes into the scaffolding. It's hot, and I'm sweating. My muscles are straining, and I'm focused on my work. Suddenly, I hear a loud noise. I look up and see that a scaffolding pole has snapped and is falling towards me. I try to move out of the way, but it hits me and knocks me off the scaffolding. I scream as I fall. I hit the ground hard and am knocked unconscious.

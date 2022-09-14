@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Wang is driving his delivery truck on a dirt road in Africa. It is evening, and the sun is setting. He is delivers goods to a small village. As he approaches, he sees a group of children playing in the dirt. They stop and stare at him as he drives by. He waves to them and they wave back. He then sees a group of women walking along the road. They are carrying bundles of firewood on their heads. He honks his horn as he passes them. As he nears the village, he sees a group of men sitting in the shade of a tree. They are drinking beer and laughing. Wang honks his horn at them as he passes. He then arrives at the village. He delivers his goods to the storekeeper and then drives back to the main road.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm driving my delivery truck on a dirt road in Africa. It's evening, and the sun is setting. I'm delivering goods to a small village. As I approach, I see a group of children playing in the dirt. They stop and stare at me as I drive by. I wave to them and they wave back. I then see a group of women walking along the road. They're carrying bundles of firewood on their heads. I honk my horn as I pass them. As I near the village, I see a group of men sitting in the shade of a tree. They're drinking beer and laughing. I honk my horn at them as I pass. I then arrive at the village. I deliver my goods to the storekeeper and then drive back to the main road.

@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The bar is quiet and empty, except for Tom the bartender and one lone customer. The customer is sitting at the far end of the bar, nursing a drink and looking out the window at the desolate landscape. Tom is wiping down the bar, lost in thought. Every once in a while, he Stealthes glanced at the customer, who seems to be in his own world. It's been a long day, and Tom is ready to close up shop and head home. But he knows he can't leave until the last customer has finished his drink and left. Finally, the customer finishes his drink and stands up to leave. As he does, he hands Tom a 100 credit chip. Tom is taken aback. He's never seen a 100 credit chip before. He's not even sure how much it's worth. The customer gives him a knowing look and says, "You'll figure it out," before turning and walking out the door. Tom is left standing there, staring at the chip in his hand, wondering what to do with it.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm standing behind the bar, wiping down the counter and stealing glances at the lone customer sitting at the other end. He's nursing a drink and staring out the window, lost in thought. I know I can't leave until he's finished his drink and gone, so I wait patiently. Finally, he stands up and walks over to me. He hands me a 100 credit chip and gives me a knowing look. I'm surprised and have no idea how much it's worth. He tells me, "You'll figure it out," before turning and walking out the door. I'm left standing there, staring at the chip in my hand, wondering what to do with it.

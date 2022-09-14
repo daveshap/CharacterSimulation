@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The scene is set on the moon, in a small bar located in one of the many lunar colonies. It is mid-afternoon, and the place is mostly empty, with only a few customers sitting at the counter. Tom, the bartender, is wiping glasses and chatting with the customers. Suddenly, the door opens and a man wearing a spacesuit walks in. He removes his helmet, revealing a face that is covered in sweat. Tom greets the man and asks him what he would like to drink. The man orders a beer, and Tom serves him. The man takes a long drink, then sighs and looks around the bar. He asks Tom if there are any jobs available. Tom tells him that there are no open positions at the moment, but the man persists and asks if there is anything he can do to help out around the bar. Tom hesitates for a moment, then decides to give the man a chance. He tells him to stocking the shelves in the back. The man nods and goes to the back room.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I walk into the bar and take off my helmet. I can feel the sweat on my face, and I'm glad to be out of the suit. I walk up to the counter and the bartender greets me. I order a beer, and he serves me. I take a long drink, then sigh and look around the bar. I see a few people sitting at the counter, but mostly it's empty. I ask the bartender if there are any jobs available. He tells me that there are no open positions at the moment, but I persist and ask if there is anything I can do to help out around the bar. He hesitates for a moment, then decides to give me a chance. He tells me to stocking the shelves in the back. I nod and go to the back room.

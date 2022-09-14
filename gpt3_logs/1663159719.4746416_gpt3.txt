@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Mashawn is working on the construction of a new lunar base. It is evening, and the sun is setting. Mashawn is using a large drill to create a hole for the foundation of the base. He is sweating profusely, and the drill is making a lot of noise. He is surrounded by other workers, who are also sweating and working hard. The atmosphere is hot and dusty.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm working on the construction of a new lunar base. It's evening, and the sun is setting. I'm using a large drill to create a hole for the foundation of the base. I'm sweating profusely, and the drill is making a lot of noise. I'm surrounded by other workers, who are also sweating and working hard. The atmosphere is hot and dusty.

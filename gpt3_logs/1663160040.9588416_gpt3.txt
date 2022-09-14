@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Jenna is standing on the mountaintop, surrounded by darkness. She's shivering in the cold, and she can see her breath in the air. She's wearing a thin jacket, and she's starting to feel the numbing effects of the cold. She's been walking for hours, and she's exhausted. She's lost, and she has no idea where she is. She's been wandering around in the dark for what seems like forever, and she's starting to panic. Suddenly, she sees a light in the distance. It's faint, but it's definitely there. She starts walking towards it, and she soon realizes that it's a fire. There's a group of people gathered around it, and they look warm and comfortable. Jenna quickens her pace, and she soon reaches the fire. She's relieved to be out of the cold, and she's happy to see other people. She's been feeling so alone, and she's glad to have some company.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm standing on the mountaintop, surrounded by darkness. I'm shivering in the cold, and I can see my breath in the air. I'm wearing a thin jacket, and I'm starting to feel the numbing effects of the cold. I've been walking for hours, and I'm exhausted. I'm lost, and I have no idea where I am. I've been wandering around in the dark for what seems like forever, and I'm starting to panic. Suddenly, I see a light in the distance. It's faint, but it's definitely there. I start walking towards it, and I soon realize that it's a fire. There's a group of people gathered around it, and they look warm and comfortable. I quicken my pace, and I soon reach the fire. I'm relieved to be out of the cold, and I'm happy to see other people. I've been feeling so alone, and I'm glad to have some company.

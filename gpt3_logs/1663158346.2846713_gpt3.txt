@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun had already set by the time Mashawn finished work for the day. He was covered in dust and sweat, his clothes stained with grime. Even though he was exhausted, he couldn't help but feel a sense of pride as he looked at the finished structure. It was a school, built to provide education for the children of his village. Mashawn had worked hard on this project, and he knew that it would make a difference in the lives of the people here. As he made his way home, he couldn't help but smile. He was tired, but he was happy.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was covered in dust and sweat, my clothes stained with grime. Even though I was exhausted, I couldn't help but feel a sense of pride as I looked at the finished structure. It was a school, built to provide education for the children of my village. I had worked hard on this project, and I knew that it would make a difference in the lives of the people here. As I made my way home, I couldn't help but smile. I was tired, but I was happy.

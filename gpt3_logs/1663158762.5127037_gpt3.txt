@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The early morning sun casts a pale glow over the barren landscape of the moon. Aleksy, a grocery store clerk, is taking his regular morning walk, enjoying the tranquility of the morning. Suddenly, he hears a loud noise behind him. He turns around to see a large object hurtling towards him at high speed. He has just enough time to register the fear on his face before the object hits him, sending him flying through the air. Aleksy crashes to the ground, unconscious. He is bleeding heavily from a head wound. The impact has caused his helmet to crack, and his oxygen supply is leaking out. If he doesn't get help soon, he will die.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+The early morning sun casts a pale glow over the barren landscape of the moon as I take my regular morning walk. I enjoy the tranquility of the morning, until I suddenly hear a loud noise behind me. I turn around to see a large object hurtling towards me at high speed. I have just enough time to register the fear on my face before the object hits me, sending me flying through the air. I crash to the ground, unconscious. I am bleeding heavily from a head wound. The impact has caused my helmet to crack, and my oxygen supply is leaking out. If I don't get help soon, I will die.

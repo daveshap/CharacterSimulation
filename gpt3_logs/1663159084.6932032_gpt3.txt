@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Mashawn is working in an office building. He is doing some construction work. He is putting up some drywall. He is wearing a hard hat and a pair of jeans. He is sweating. He is working hard. He is listening to music on his headphones. He is in a good mood.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm working in an office building. I'm doing some construction work. I'm putting up some drywall. I'm wearing a hard hat and a pair of jeans. I'm sweating. I'm working hard. I'm listening to music on my headphones. I'm in a good mood.

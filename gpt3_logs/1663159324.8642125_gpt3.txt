@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The sun is beating down on the crowd of people crammed together in the concert venue. Aleksy is standing near the back, trying to get a glimpse of the stage. He's sweating in the heat, and he can feel the sticky beer spilling down his arm from the plastic cup he's holding. The music is so loud that it's making his head throb, but he's enjoying watching the people around him dancing and singing along. Every now and then, someone bumps into him and he has to steady himself to keep from being knocked over. He's getting a little claustrophobic, but he doesn't want to leave before the concert is over.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+The sun is beating down on me, and I'm crammed together with a bunch of other people in the concert venue. I'm standing near the back, trying to get a glimpse of the stage. I'm sweating in the heat, and I can feel the sticky beer spilling down my arm from the plastic cup I'm holding. The music is so loud that it's making my head throb, but I'm enjoying watching the people around me dancing and singing along. Every now and then, someone bumps into me and I have to steady myself to keep from being knocked over. I'm getting a little claustrophobic, but I don't want to leave before the concert is over.

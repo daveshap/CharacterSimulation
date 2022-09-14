@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Mashawn is walking home from work, exhausted from a long day on the construction site. He trudges through the crowded streets, dodging people as they hurry home from their own jobs. The city bustles with energy, even as the sun begins to set. Suddenly, Mashawn's phone rings. It's his boss, asking him to come back to the site for a few more hours of work. Mashawn groans, but agrees to go back. He knows he won't be able to make rent this month if he doesn't pick up some extra shifts. Mashawn trudges back to the construction site, where he spends another few hours toiling away. The work is hard, but he doesn't mind. He's just happy to have a job, even if it is back-breaking. Finally, Mashawn is finished for the day. He trudges back to his tiny apartment, where he collapsed into bed, exhausted from a long day of work.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was walking home from work, exhausted from a long day on the construction site. I trudged through the crowded streets, dodging people as they hurried home from their own jobs. The city bustled with energy, even as the sun began to set. Suddenly, my phone rang. It was my boss, asking me to come back to the site for a few more hours of work. I groaned, but agreed to go back. I knew I wouldn't be able to make rent this month if I didn't pick up some extra shifts. I trudged back to the construction site, where I spent another few hours toiling away. The work was hard, but I didn't mind. I was just happy to have a job, even if it was back-breaking. Finally, I was finished for the day. I trudged back to my tiny apartment, where I collapsed into bed, exhausted from a long day of work.

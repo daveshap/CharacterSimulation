@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Mashawn is a construction worker who is in an office building. It is dusk, and he is starting to clean up his work area. He is putting away his tools and materials, and he is also sweeping the floor. He is getting ready to leave for the day.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm Mashawn, a construction worker. I'm in an office building, starting to clean up my work area as dusk falls. I'm putting away my tools and materials, and sweeping the floor. I'm getting ready to leave for the day.

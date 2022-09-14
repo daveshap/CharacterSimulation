@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Wang is a delivery driver who has just finished his shift. He's looking forward to going home to his family, but first he's going to take a walk on the beach. The sun is setting and the sky is a beautiful orange. The waves are crashing against the shore, and Wang can hear the sound of people laughing and playing in the distance. He takes a deep breath of the salty air and feels his muscles relax. It's been a long day, but it's good to be out in nature. He starts to walk towards the sound of the people, but suddenly he hears a scream. Wang turns around and sees a woman running towards him, her face terror. She's being chased by a man with a knife, and Wang knows he has to help her. He runs towards the man and tackles him to the ground. The knife falls out of his hand and the woman runs to safety. Wang restrains the man until the police arrive. It's been a long day, but Wang feels good knowing he was able to help someone in need.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was just finishing up my delivery shift when I decided to take a walk on the beach. The sun was setting and the sky was a beautiful orange. The waves were crashing against the shore, and I could hear the sound of people laughing and playing in the distance. I took a deep breath of the salty air and felt my muscles relax. It had been a long day, but it was good to be out in nature. I started to walk towards the sound of the people, but suddenly I heard a scream. I turned around and saw a woman running towards me, her face terror. She was being chased by a man with a knife, and I knew I had to help her. I ran towards the man and tackled him to the ground. The knife fell out of his hand and the woman ran to safety. I restrained the man until the police arrived. It had been a long day, but I felt good knowing I was able to help someone in need.

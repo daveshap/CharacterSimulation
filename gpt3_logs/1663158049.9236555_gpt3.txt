@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Mashawn is walking along the beach, admiring the sunset. He's been working hard all day and is looking forward to relax. As he approaches a quiet spot, he notices something shining in the sand. He bends down to pick it up, and it's a gold necklace. He looks around to see if anyone is nearby, but there's no one in sight. He puts the necklace in his pocket and continues walking.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm walking along the beach, admiring the sunset. I've been working hard all day and I'm looking forward to relaxing. As I approach a quiet spot, I notice something shining in the sand. I bend down to pick it up, and it's a gold necklace. I look around to see if anyone is nearby, but there's no one in sight. I put the necklace in my pocket and continue walking.

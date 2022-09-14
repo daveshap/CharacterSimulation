@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Wang, a delivery driver, is making his final delivery of the day to an office building. It is evening, and the office is mostly empty, with only a few lights still on in the windows. Wang pulls up to the front of the building and parks his van. He takes the package out of the van and walks up to the front door of the building. He presses the buzzer for the office, and after a moment, someone buzzes him in. Wang walks through the lobby and up to the elevator. He presses the button for the floor his package is going to, and the elevator doors close. Wang rides the elevator up to the correct floor, and walks down the hallway to the correct office. He knocks on the door, and after a moment, someone answers. Wang hands them the package and says goodbye. The person in the office thanks Wang and closes the door. Wang walks back to the elevator and presses the button for the lobby. The elevator doors close, and Wang begins his ride back down to the lobby.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm making my final delivery of the day to an office building. It's evening, and the office is mostly empty, with only a few lights still on in the windows. I pull up to the front of the building and park my van. I take the package out of the van and walk up to the front door of the building. I press the buzzer for the office, and after a moment, someone buzzes me in. I walk through the lobby and up to the elevator. I press the button for the floor my package is going to, and the elevator doors close. I ride the elevator up to the correct floor, and walk down the hallway to the correct office. I knock on the door, and after a moment, someone answers. I hand them the package and say goodbye. The person in the office thanks me and closes the door. I walk back to the elevator and press the button for the lobby. The elevator doors close, and I begin my ride back down to the lobby.

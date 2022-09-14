@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: The concert is in full swing, with the band playing their hearts out on stage. The crowd is cheering and dancing along, waving their hands in the air. Wang is standing in the middle of it all, holding a box of pizza. He's looking around, trying to figure out where he's supposed to deliver it. Suddenly, someone bumps into him from behind and the pizza goes flying. Wang turns around to see a guy stumbling away, laughing. He's obviously drunk. Wang is angry, but there's nothing he can do. He turns back to the pizza, which is now lying in the dirt. He sighs and bends down to pick it up. At that moment, he notices a girl standing off to the side, watching him. She's got a kind smile on her face. Wang feels a little embarrassed, but he smiles back at her. Then he turns and heads back to his truck, pizza in hand.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm at the concert, standing in the middle of the crowd with a box of pizza. I'm looking around, trying to figure out where I'm supposed to deliver it, when someone bumps into me from behind and the pizza goes flying. I turn around to see a guy stumbling away, laughing. He's obviously drunk. I'm angry, but there's nothing I can do. I turn back to the pizza, which is now lying in the dirt. I sigh and bend down to pick it up. That's when I notice a girl standing off to the side, watching me. She's got a kind smile on her face. I feel a little embarrassed, but I smile back at her. Then I turn and head back to my truck, pizza in hand.

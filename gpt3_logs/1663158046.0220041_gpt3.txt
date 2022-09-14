@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Tom is a bartender who is working on a quiet beach in Asia. It is dusk, and the sun is setting. Tom is serving drinks to the customers who are sitting at the bar. He is wearing a white shirt and black pants. He has a black apron on. He is wearing a white hat. He has a mustache and a beard. He is bald. He is 6 feet tall. He is muscular. He is 30 years old. The customers at the bar are all wearing swimsuits. They are all drinking cocktails. They are all laughing and having a good time. The bar is brightly lit. The music is loud. Suddenly, a group of men come into the bar. They are all wearing masks. They are carrying guns. They start shooting at the customers. Tom ducks behind the bar. He grabs a gun from under the counter. He starts shooting at the men. He kills two of them. The other men run away. The customers at the bar are all killed. Tom is the only one left alive.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I was working at the bar on the beach, serving drinks to the customers who were sitting there. It was dusk, and the sun was setting. I was wearing a white shirt and black pants. I had a black apron on. I was wearing a white hat. I had a mustache and a beard. I was bald. I was 6 feet tall. I was muscular. I was 30 years old. The customers at the bar were all wearing swimsuits. They were all drinking cocktails. They were all laughing and having a good time. The bar was brightly lit. The music was loud. Suddenly, a group of men came into the bar. They were all wearing masks. They were carrying guns. They started shooting at the customers. I ducked behind the bar. I grabbed a gun from under the counter. I started shooting at the men. I killed two of them. The other men ran away. The customers at the bar were all killed. I was the only one left alive.

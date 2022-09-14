@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Bob is a coffee shop owner who is trying to get his business off the ground. He is in Africa, and it is 6pm. He is trying to attract customers, but so far he has not had much success. He is starting to get frustrated, and is considering giving up.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm Bob, a coffee shop owner trying to get my business off the ground. I'm in Africa, and it's 6pm. I'm trying to attract customers, but so far I haven't had much success. I'm starting to get frustrated, and I'm considering giving up.

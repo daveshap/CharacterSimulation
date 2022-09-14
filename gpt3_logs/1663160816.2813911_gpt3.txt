@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: Mashawn is working on a construction site in the city. It's a hot day and he's sweating from the heat and the physical labor. He takes a break to wipe the sweat from his brow and take a drink of water. He looks up at the skyline and marvels at the tall buildings. He's never been to the city before and he's impressed by the sights.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm working on a construction site in the city. It's a hot day and I'm sweating from the heat and the physical labor. I take a break to wipe the sweat from my brow and take a drink of water. I look up at the skyline and marvel at the tall buildings. I've never been to the city before and I'm impressed by the sights.

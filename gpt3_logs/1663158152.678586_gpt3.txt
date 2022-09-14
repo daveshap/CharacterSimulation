@@ -1,0 +1,9 @@
+Rewrite the following scene into the main character's first person view.
+
+SCENE: It's a quiet night at the bar. Tom is wiping down the counter, waiting for customers. The door opens and a few people come in. They sit down at the counter and Tom greets them. He asks them what they'll be having and gets them their drinks. They chat for a bit and then leave. Tom goes back to cleaning the counter.
+
+REWRITE AS FIRST PERSON:
+
+==========
+
+I'm wiping down the counter, waiting for customers. The door opens and a few people come in. They sit down at the counter and I greet them. I ask them what they'll be having and get them their drinks. We chat for a bit and then they leave. I go back to cleaning the counter.
